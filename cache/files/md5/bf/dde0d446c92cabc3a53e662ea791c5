@@ -1,0 +1,693 @@
+{
+  "status": "success",
+  "method": "html_parser",
+  "sections": [
+    {
+      "title": "financial statements",
+      "start": 17353,
+      "end": 17373
+    },
+    {
+      "title": "financial statements",
+      "start": 17471,
+      "end": 17491
+    },
+    {
+      "title": "Part III",
+      "start": 18748,
+      "end": 18756
+    },
+    {
+      "title": "Part I",
+      "start": 19084,
+      "end": 19090
+    },
+    {
+      "title": "Item 1.\nBusiness",
+      "start": 19091,
+      "end": 19107
+    },
+    {
+      "title": "Item 1A.\nRisk Factors",
+      "start": 19110,
+      "end": 19131
+    },
+    {
+      "title": "Risk Factors",
+      "start": 19119,
+      "end": 19131
+    },
+    {
+      "title": "Item 1B.\nUnresolved Staff Comments",
+      "start": 19134,
+      "end": 19168
+    },
+    {
+      "title": "Item 1C.\nCybersecurity",
+      "start": 19172,
+      "end": 19194
+    },
+    {
+      "title": "Item 2.\nProperties",
+      "start": 19198,
+      "end": 19216
+    },
+    {
+      "title": "Item 3.\nLegal Proceedings",
+      "start": 19220,
+      "end": 19245
+    },
+    {
+      "title": "Item 4.\nMine Safety Disclosures",
+      "start": 19249,
+      "end": 19280
+    },
+    {
+      "title": "Part II",
+      "start": 19284,
+      "end": 19291
+    },
+    {
+      "title": "Item 5.\nMarket for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+      "start": 19292,
+      "end": 19408
+    },
+    {
+      "title": "Item 6.\n[Reserved]",
+      "start": 19412,
+      "end": 19430
+    },
+    {
+      "title": "Item 7.\nManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+      "start": 19434,
+      "end": 19527
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 19442,
+      "end": 19478
+    },
+    {
+      "title": "Item 7A.\nQuantitative and Qualitative Disclosures About Market Risk",
+      "start": 19531,
+      "end": 19598
+    },
+    {
+      "title": "Item 8.\nFinancial Statements and Supplementary Data",
+      "start": 19602,
+      "end": 19653
+    },
+    {
+      "title": "Financial Statements",
+      "start": 19610,
+      "end": 19630
+    },
+    {
+      "title": "Item 9.\nChanges in and Disagreements with Accountants on Accounting and Financial Disclosure",
+      "start": 19657,
+      "end": 19749
+    },
+    {
+      "title": "Item 9A.\nControls and Procedures",
+      "start": 19753,
+      "end": 19785
+    },
+    {
+      "title": "Item 9B.\nOther Information",
+      "start": 19789,
+      "end": 19815
+    },
+    {
+      "title": "Item 9C.\nDisclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+      "start": 19819,
+      "end": 19895
+    },
+    {
+      "title": "Part III",
+      "start": 19899,
+      "end": 19907
+    },
+    {
+      "title": "Item 10.\nDirectors, Executive Officers and Corporate Governance",
+      "start": 19908,
+      "end": 19971
+    },
+    {
+      "title": "Item 11.\nExecutive Compensation",
+      "start": 19975,
+      "end": 20006
+    },
+    {
+      "title": "Item 12\n.",
+      "start": 20010,
+      "end": 20019
+    },
+    {
+      "title": "Item 13\n.",
+      "start": 20118,
+      "end": 20127
+    },
+    {
+      "title": "Item 14.\nPrincipal Accountant Fees and Services",
+      "start": 20205,
+      "end": 20252
+    },
+    {
+      "title": "Part IV",
+      "start": 20256,
+      "end": 20263
+    },
+    {
+      "title": "Item 15.\nExhibit and Financial Statement Schedules",
+      "start": 20264,
+      "end": 20314
+    },
+    {
+      "title": "Item 16.\nForm 10-K Summary",
+      "start": 20318,
+      "end": 20344
+    },
+    {
+      "title": "Part I",
+      "start": 20599,
+      "end": 20605
+    },
+    {
+      "title": "Item 1 of this Form 10-K under the heading \u201cBusiness\u201d and Part II, Item 7 of this Form 10-K under the heading \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations.\u201d Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-K regarding the potential future impact of macroeconomic conditions and tariffs and other measures on the Company\u2019s business and results of operations are forward-looking statements. Forward-looking statements can also be identified by words such as \u201cfuture,\u201d \u201canticipates,\u201d \u201cbelieves,\u201d \u201cestimates,\u201d \u201cexpects,\u201d \u201cintends,\u201d \u201cplans,\u201d \u201cpredicts,\u201d \u201cwill,\u201d \u201cwould,\u201d \u201ccould,\u201d \u201ccan,\u201d \u201cmay,\u201d and similar terms. Forward-looking statements are not guarantees of future performance and the Company\u2019s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.",
+      "start": 20607,
+      "end": 21918
+    },
+    {
+      "title": "Part II",
+      "start": 20665,
+      "end": 20672
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 20718,
+      "end": 20754
+    },
+    {
+      "title": "Part I",
+      "start": 21723,
+      "end": 21729
+    },
+    {
+      "title": "Risk Factors",
+      "start": 21776,
+      "end": 21788
+    },
+    {
+      "title": "PART I",
+      "start": 22363,
+      "end": 22369
+    },
+    {
+      "title": "Item 1.\u00a0\u00a0\u00a0\u00a0Business",
+      "start": 22370,
+      "end": 22389
+    },
+    {
+      "title": "Item 1A.\u00a0\u00a0\u00a0\u00a0Risk Factors",
+      "start": 38424,
+      "end": 38448
+    },
+    {
+      "title": "Risk Factors",
+      "start": 38436,
+      "end": 38448
+    },
+    {
+      "title": "Part II",
+      "start": 39209,
+      "end": 39216
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 39227,
+      "end": 39263
+    },
+    {
+      "title": "financial statements",
+      "start": 39335,
+      "end": 39355
+    },
+    {
+      "title": "Part II",
+      "start": 39382,
+      "end": 39389
+    },
+    {
+      "title": "Financial Statements",
+      "start": 39400,
+      "end": 39420
+    },
+    {
+      "title": "Item 1B.\u00a0\u00a0\u00a0\u00a0Unresolved Staff Comments",
+      "start": 106472,
+      "end": 106509
+    },
+    {
+      "title": "Item 1C.\u00a0\u00a0\u00a0\u00a0Cybersecurity",
+      "start": 106516,
+      "end": 106541
+    },
+    {
+      "title": "Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d",
+      "start": 109161,
+      "end": 109220
+    },
+    {
+      "title": "Risk Factors",
+      "start": 109206,
+      "end": 109218
+    },
+    {
+      "title": "Item 2.\u00a0\u00a0\u00a0\u00a0Properties",
+      "start": 109221,
+      "end": 109242
+    },
+    {
+      "title": "Item 3.\u00a0\u00a0\u00a0\u00a0Legal Proceedings",
+      "start": 109741,
+      "end": 109769
+    },
+    {
+      "title": "Item 4.\u00a0\u00a0\u00a0\u00a0Mine Safety Disclosures",
+      "start": 115143,
+      "end": 115177
+    },
+    {
+      "title": "PART II",
+      "start": 115227,
+      "end": 115234
+    },
+    {
+      "title": "Item 5.\u00a0\u00a0\u00a0\u00a0Market for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+      "start": 115235,
+      "end": 115354
+    },
+    {
+      "title": "Item 6.\u00a0\u00a0\u00a0\u00a0[Reserved]",
+      "start": 117896,
+      "end": 117917
+    },
+    {
+      "title": "Item 7.\u00a0\u00a0\u00a0\u00a0Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+      "start": 117951,
+      "end": 118047
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 117962,
+      "end": 117998
+    },
+    {
+      "title": "financial statements",
+      "start": 118125,
+      "end": 118145
+    },
+    {
+      "title": "Part II",
+      "start": 118181,
+      "end": 118188
+    },
+    {
+      "title": "Item 8 of this Form 10-K. This Item generally discusses 2025 and 2024 items and year-to-year comparisons between 2025 and 2024. Discussions of 2023 items and year-to-year comparisons between 2024 and 2023 are not included, and can be found in \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d in Part II, Item 7 of the Company\u2019s Annual Report on Form 10-K for the fiscal year ended September\u00a028, 2024.",
+      "start": 118190,
+      "end": 118629
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 118434,
+      "end": 118470
+    },
+    {
+      "title": "Part II",
+      "start": 118524,
+      "end": 118531
+    },
+    {
+      "title": "Part I",
+      "start": 125633,
+      "end": 125639
+    },
+    {
+      "title": "Item 1A of this Form 10-K under the heading \u201cRisk Factors.\u201d As a result, the Company believes, in general, gross margins will be subject to volatility and downward pressure.",
+      "start": 125641,
+      "end": 125814
+    },
+    {
+      "title": "Risk Factors",
+      "start": 125686,
+      "end": 125698
+    },
+    {
+      "title": "Financial Statements",
+      "start": 127663,
+      "end": 127683
+    },
+    {
+      "title": "Part II",
+      "start": 127687,
+      "end": 127694
+    },
+    {
+      "title": "Item 8 of this Form 10-K) and the impact of changes in unrecognized tax benefits, partially offset by a change in valuation allowance and a higher effective tax rate on foreign earnings.",
+      "start": 127696,
+      "end": 127882
+    },
+    {
+      "title": "financial statements",
+      "start": 133674,
+      "end": 133694
+    },
+    {
+      "title": "Financial Statements",
+      "start": 134078,
+      "end": 134098
+    },
+    {
+      "title": "Part II",
+      "start": 134102,
+      "end": 134109
+    },
+    {
+      "title": "Item 8 of this Form 10-K describes the significant accounting policies and methods used in the preparation of the Company\u2019s consolidated financial statements. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities.",
+      "start": 134111,
+      "end": 134522
+    },
+    {
+      "title": "financial statements",
+      "start": 134248,
+      "end": 134268
+    },
+    {
+      "title": "Item 7A.\u00a0\u00a0\u00a0\u00a0Quantitative and Qualitative Disclosures About Market Risk",
+      "start": 135972,
+      "end": 136042
+    },
+    {
+      "title": "financial statements",
+      "start": 136248,
+      "end": 136268
+    },
+    {
+      "title": "Item 8.\u00a0\u00a0\u00a0\u00a0Financial Statements and Supplementary Data",
+      "start": 138996,
+      "end": 139050
+    },
+    {
+      "title": "Financial Statements",
+      "start": 139007,
+      "end": 139027
+    },
+    {
+      "title": "Financial Statements",
+      "start": 139073,
+      "end": 139093
+    },
+    {
+      "title": "Financial Statements",
+      "start": 139712,
+      "end": 139732
+    },
+    {
+      "title": "financial statements",
+      "start": 140045,
+      "end": 140065
+    },
+    {
+      "title": "Financial Statements",
+      "start": 141267,
+      "end": 141287
+    },
+    {
+      "title": "Financial Statements",
+      "start": 142401,
+      "end": 142421
+    },
+    {
+      "title": "Financial Statements",
+      "start": 144026,
+      "end": 144046
+    },
+    {
+      "title": "Financial Statements",
+      "start": 145396,
+      "end": 145416
+    },
+    {
+      "title": "Financial Statements",
+      "start": 147703,
+      "end": 147723
+    },
+    {
+      "title": "Financial Statements",
+      "start": 147791,
+      "end": 147811
+    },
+    {
+      "title": "financial statements",
+      "start": 147919,
+      "end": 147939
+    },
+    {
+      "title": "financial statements",
+      "start": 148048,
+      "end": 148068
+    },
+    {
+      "title": "financial statements",
+      "start": 148216,
+      "end": 148236
+    },
+    {
+      "title": "Financial Statements",
+      "start": 190669,
+      "end": 190689
+    },
+    {
+      "title": "financial statements",
+      "start": 191063,
+      "end": 191083
+    },
+    {
+      "title": "financial statements",
+      "start": 191107,
+      "end": 191127
+    },
+    {
+      "title": "financial statements",
+      "start": 191936,
+      "end": 191956
+    },
+    {
+      "title": "financial statements",
+      "start": 192070,
+      "end": 192090
+    },
+    {
+      "title": "financial statements",
+      "start": 192562,
+      "end": 192582
+    },
+    {
+      "title": "financial statements",
+      "start": 192743,
+      "end": 192763
+    },
+    {
+      "title": "financial statements",
+      "start": 192958,
+      "end": 192978
+    },
+    {
+      "title": "financial statements",
+      "start": 193147,
+      "end": 193167
+    },
+    {
+      "title": "financial statements",
+      "start": 193364,
+      "end": 193384
+    },
+    {
+      "title": "financial statements",
+      "start": 193535,
+      "end": 193555
+    },
+    {
+      "title": "financial statements",
+      "start": 193727,
+      "end": 193747
+    },
+    {
+      "title": "financial statements",
+      "start": 194024,
+      "end": 194044
+    },
+    {
+      "title": "financial statements",
+      "start": 195924,
+      "end": 195944
+    },
+    {
+      "title": "financial statements",
+      "start": 198884,
+      "end": 198904
+    },
+    {
+      "title": "financial statements",
+      "start": 199352,
+      "end": 199372
+    },
+    {
+      "title": "financial statements",
+      "start": 199774,
+      "end": 199794
+    },
+    {
+      "title": "Item 9.\u00a0\u00a0\u00a0\u00a0Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+      "start": 200256,
+      "end": 200351
+    },
+    {
+      "title": "Item 9A.\u00a0\u00a0\u00a0\u00a0Controls and Procedures",
+      "start": 200358,
+      "end": 200393
+    },
+    {
+      "title": "financial statements",
+      "start": 201485,
+      "end": 201505
+    },
+    {
+      "title": "financial statements",
+      "start": 201916,
+      "end": 201936
+    },
+    {
+      "title": "financial statements",
+      "start": 202302,
+      "end": 202322
+    },
+    {
+      "title": "financial statements",
+      "start": 204117,
+      "end": 204137
+    },
+    {
+      "title": "Part II",
+      "start": 204347,
+      "end": 204354
+    },
+    {
+      "title": "Item 8 of this Form 10-K.",
+      "start": 204356,
+      "end": 204381
+    },
+    {
+      "title": "Item 9B.\u00a0\u00a0\u00a0\u00a0Other Information",
+      "start": 204861,
+      "end": 204890
+    },
+    {
+      "title": "Item 9C.\u00a0\u00a0\u00a0\u00a0Disclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+      "start": 205434,
+      "end": 205513
+    },
+    {
+      "title": "PART III",
+      "start": 205530,
+      "end": 205538
+    },
+    {
+      "title": "Item 10.\u00a0\u00a0\u00a0\u00a0Directors, Executive Officers and Corporate Governance",
+      "start": 205539,
+      "end": 205605
+    },
+    {
+      "title": "Item 11.\u00a0\u00a0\u00a0\u00a0Executive Compensation",
+      "start": 205940,
+      "end": 205974
+    },
+    {
+      "title": "Item 12.\u00a0\u00a0\u00a0\u00a0Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+      "start": 206100,
+      "end": 206206
+    },
+    {
+      "title": "Item 13.\u00a0\u00a0\u00a0\u00a0Certain Relationships and Related Transactions, and Director Independence",
+      "start": 206332,
+      "end": 206417
+    },
+    {
+      "title": "Item 14.\u00a0\u00a0\u00a0\u00a0Principal Accountant Fees and Services",
+      "start": 206543,
+      "end": 206593
+    },
+    {
+      "title": "PART IV",
+      "start": 206752,
+      "end": 206759
+    },
+    {
+      "title": "Item 15.\u00a0\u00a0\u00a0\u00a0Exhibit and Financial Statement Schedules",
+      "start": 206760,
+      "end": 206813
+    },
+    {
+      "title": "financial statements",
+      "start": 206865,
+      "end": 206885
+    },
+    {
+      "title": "Financial Statements",
+      "start": 206908,
+      "end": 206928
+    },
+    {
+      "title": "Financial Statements",
+      "start": 207547,
+      "end": 207567
+    },
+    {
+      "title": "financial statements",
+      "start": 207963,
+      "end": 207983
+    },
+    {
+      "title": "Item 601 of Regulation S-K",
+      "start": 208060,
+      "end": 208086
+    },
+    {
+      "title": "financial statements",
+      "start": 217891,
+      "end": 217911
+    },
+    {
+      "title": "Part II",
+      "start": 217938,
+      "end": 217945
+    },
+    {
+      "title": "Financial Statements",
+      "start": 217956,
+      "end": 217976
+    },
+    {
+      "title": "Item 16.\u00a0\u00a0\u00a0\u00a0Form 10-K Summary",
+      "start": 218543,
+      "end": 218572
+    }
+  ],
+  "char_count": 220635,
+  "line_count": 4709,
+  "word_count": 32213,
+  "file_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-K/0000320193-25-000079/primary-document.html",
+  "file_name": "primary-document.html",
+  "file_size": 1520208,
+  "processed_at": "2025-11-05T18:30:52.377758"
+}

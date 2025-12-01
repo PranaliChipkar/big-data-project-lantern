@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "created_at": "2025-11-30T11:56:32.651843",
+    "total_blocks": 1266,
+    "total_documents": 8,
+    "schema_version": "1.0"
+  },
+  "documents": {
+    "a1b3a4e2c9e5": {
+      "company": "AAPL",
+      "filing_type": "unknown",
+      "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html"
+    },
+    "2de30049b33d": {
+      "company": "AAPL",
+      "filing_type": "unknown",
+      "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000057/primary-document.html"
+    },
+    "3570547a79ec": {
+      "company": "AAPL",
+      "filing_type": "unknown",
+      "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-K/0000320193-25-000079/primary-document.html"
+    },
+    "0a27c3bc190a": {
+      "company": "AAPL",
+      "filing_type": "unknown",
+      "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-K/0000320193-24-000123/primary-document.html"
+    },
+    "82414a4e34d3": {
+      "company": "MSFT",
+      "filing_type": "unknown",
+      "source_path": "data/raw/pdfs/sec-edgar-filings/MSFT/10-Q/0000950170-25-061046/primary-document.html"
+    },
+    "c21348bbd000": {
+      "company": "MSFT",
+      "filing_type": "unknown",
+      "source_path": "data/raw/pdfs/sec-edgar-filings/MSFT/10-Q/0001193125-25-256321/primary-document.html"
+    },
+    "3d13ca962526": {
+      "company": "MSFT",
+      "filing_type": "unknown",
+      "source_path": "data/raw/pdfs/sec-edgar-filings/MSFT/10-K/0000950170-25-100235/primary-document.html"
+    },
+    "bb08759bdab3": {
+      "company": "MSFT",
+      "filing_type": "unknown",
+      "source_path": "data/raw/pdfs/sec-edgar-filings/MSFT/10-K/0000950170-24-087843/primary-document.html"
+    }
+  },
+  "content": {
+    "text_blocks": [
+      {
+        "block_id": "a1b3a4e2c9e5_text_0000",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "introduction",
+        "block_type": "text",
+        "block_index": 0,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 11072,
+          "word_count": 609,
+          "line_count": 609
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.254690",
+        "text": "aapl-20250628\nfalse\n2025\nQ3\n0000320193\n--09-27\nP1Y\nP1Y\nP1Y\nP1Y\nxbrli:shares\niso4217:USD\niso4217:USD\nxbrli:shares\nxbrli:pure\naapl:Customer\naapl:Vendor\n0000320193\n2024-09-29\n2025-06-28\n0000320193\nus-gaap:CommonStockMember\n2024-09-29\n2025-06-28\n0000320193\naapl:A0.000Notesdue2025Member\n2024-09-29\n2025-06-28\n0000320193\naapl:A1.625NotesDue2026Member\n2024-09-29\n2025-06-28\n0000320193\naapl:A2.000NotesDue2027Member\n2024-09-29\n2025-06-28\n0000320193\naapl:A1.375NotesDue2029Member\n2024-09-29\n2025-06-28\n0000320193\naapl:A3.050NotesDue2029Member\n2024-09-29\n2025-06-28\n0000320193\naapl:A0.500Notesdue2031Member\n2024-09-29\n2025-06-28\n0000320193\naapl:A3.600NotesDue2042Member\n2024-09-29\n2025-06-28\n0000320193\n2025-07-18\n0000320193\nus-gaap:ProductMember\n2025-03-30\n2025-06-28\n0000320193\nus-gaap:ProductMember\n2024-03-31\n2024-06-29\n0000320193\nus-gaap:ProductMember\n2024-09-29\n2025-06-28\n0000320193\nus-gaap:ProductMember\n2023-10-01\n2024-06-29\n0000320193\nus-gaap:ServiceMember\n2025-03-30\n2025-06-28\n0000320193\nus-gaap:S",
+        "full_text_available": true
+      },
+      {
+        "block_id": "a1b3a4e2c9e5_text_0001",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "us-gaap:MaterialReconcilingItemsMember",
+        "block_type": "text",
+        "block_index": 1,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 3319,
+          "word_count": 519,
+          "line_count": 119
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.254719",
+        "text": "2023-10-01\n2024-06-29\n0000320193\nus-gaap:CorporateNonSegmentMember\n2025-03-30\n2025-06-28\n0000320193\nus-gaap:CorporateNonSegmentMember\n2024-03-31\n2024-06-29\n0000320193\nus-gaap:CorporateNonSegmentMember\n2024-09-29\n2025-06-28\n0000320193\nus-gaap:CorporateNonSegmentMember\n2023-10-01\n2024-06-29\nUNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM\n10-Q\n(Mark One)\n\u2612\nQUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the quarterly period ended\nJune\u00a028, 2025\nor\n\u2610\nTRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from\nto\n.\nCommission File Number:\n001-36743\nApple Inc.\n(Exact name of Registrant as specified in its charter)\nCalifornia\n94-2404110\n(State or other jurisdiction\nof incorporation or organization)\n(I.R.S. Employer Identification No.)\nOne Apple Park Way\nCupertino\n,\nCalifornia\n95014\n(Address of principal executive offices)\n(Zip Code)\n(\n408\n)\n996-1010\n(Registrant\u2019s",
+        "full_text_available": true
+      },
+      {
+        "block_id": "a1b3a4e2c9e5_text_0002",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "Item 1.",
+        "block_type": "text",
+        "block_index": 2,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 20,
+          "word_count": 3,
+          "line_count": 2
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.254723",
+        "text": "Legal Proceedings\n20",
+        "full_text_available": true
+      },
+      {
+        "block_id": "a1b3a4e2c9e5_text_0003",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "Item 2.",
+        "block_type": "text",
+        "block_index": 3,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 62,
+          "word_count": 10,
+          "line_count": 2
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.254725",
+        "text": "Unregistered Sales of Equity Securities and Use of Proceeds\n21",
+        "full_text_available": true
+      },
+      {
+        "block_id": "a1b3a4e2c9e5_text_0004",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "Item 3.",
+        "block_type": "text",
+        "block_index": 4,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 34,
+          "word_count": 5,
+          "line_count": 2
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.254728",
+        "text": "Defaults Upon Senior Securities\n21",
+        "full_text_available": true
+      }
+    ],
+    "tables": [
+      {
+        "block_id": "a1b3a4e2c9e5_table_0000",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "financial_data",
+        "block_type": "table",
+        "block_index": 0,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 0,
+          "word_count": 0,
+          "line_count": 0,
+          "row_count": 16,
+          "col_count": 16
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.258569",
+        "table_file": "data/parsed/tables/AAPL/10-Q/0000320193-25-000073/primary-document_financial_data_18.csv",
+        "table_type": "financial_data",
+        "rows": 16,
+        "columns": 16,
+        "column_names": [
+          "Unnamed: 0",
+          "Three Months Ended",
+          "Unnamed: 2",
+          "Nine Months Ended",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9",
+          "Unnamed: 10",
+          "Unnamed: 11",
+          "Unnamed: 12",
+          "Unnamed: 13",
+          "Unnamed: 14",
+          "Unnamed: 15"
+        ]
+      },
+      {
+        "block_id": "a1b3a4e2c9e5_table_0001",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "financial_data",
+        "block_type": "table",
+        "block_index": 1,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 0,
+          "word_count": 0,
+          "line_count": 0,
+          "row_count": 7,
+          "col_count": 16
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.259498",
+        "table_file": "data/parsed/tables/AAPL/10-Q/0000320193-25-000073/primary-document_financial_data_24.csv",
+        "table_type": "financial_data",
+        "rows": 7,
+        "columns": 16,
+        "column_names": [
+          "Unnamed: 0",
+          "Three Months Ended",
+          "Unnamed: 2",
+          "Nine Months Ended",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9",
+          "Unnamed: 10",
+          "Unnamed: 11",
+          "Unnamed: 12",
+          "Unnamed: 13",
+          "Unnamed: 14",
+          "Unnamed: 15"
+        ]
+      },
+      {
+        "block_id": "a1b3a4e2c9e5_table_0002",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "financial_data",
+        "block_type": "table",
+        "block_index": 2,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 0,
+          "word_count": 0,
+          "line_count": 0,
+          "row_count": 4,
+          "col_count": 16
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.260173",
+        "table_file": "data/parsed/tables/AAPL/10-Q/0000320193-25-000073/primary-document_financial_data_25.csv",
+        "table_type": "financial_data",
+        "rows": 4,
+        "columns": 16,
+        "column_names": [
+          "Unnamed: 0",
+          "Three Months Ended",
+          "Unnamed: 2",
+          "Nine Months Ended",
+          "Unnamed: 4",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8",
+          "Unnamed: 9",
+          "Unnamed: 10",
+          "Unnamed: 11",
+          "Unnamed: 12",
+          "Unnamed: 13",
+          "Unnamed: 14",
+          "Unnamed: 15"
+        ]
+      },
+      {
+        "block_id": "a1b3a4e2c9e5_table_0003",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "financial_data",
+        "block_type": "table",
+        "block_index": 3,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 0,
+          "word_count": 0,
+          "line_count": 0,
+          "row_count": 7,
+          "col_count": 9
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.260672",
+        "table_file": "data/parsed/tables/AAPL/10-Q/0000320193-25-000073/primary-document_financial_data_27.csv",
+        "table_type": "financial_data",
+        "rows": 7,
+        "columns": 9,
+        "column_names": [
+          "Unnamed: 0",
+          "Unnamed: 1",
+          "Unnamed: 2",
+          "Unnamed: 3",
+          "Incorporated by Reference",
+          "Unnamed: 5",
+          "Unnamed: 6",
+          "Unnamed: 7",
+          "Unnamed: 8"
+        ]
+      },
+      {
+        "block_id": "a1b3a4e2c9e5_table_0004",
+        "doc_id": "a1b3a4e2c9e5",
+        "company": "AAPL",
+        "fiscal_year": "2025",
+        "page": 1,
+        "section": "financial_data",
+        "block_type": "table",
+        "block_index": 4,
+        "bbox": null,
+        "content_stats": {
+          "char_count": 0,
+          "word_count": 0,
+          "line_count": 0,
+          "row_count": 7,
+          "col_count": 13
+        },
+        "source_path": "data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+        "extraction_method": "automated",
+        "confidence": 0.95,
+        "timestamp": "2025-11-30T11:51:37.261178",
+        "table_file": "data/parsed/tables/AAPL/10-Q/0000320193-25-000073/primary-document_financial_data_26.csv",
+        "table_type": "financial_data",
+        "rows": 7,
+        "columns": 13,
+        "column_names": [
+          "Periods",
+          "Unnamed: 1",
+          "Total Numberof Shares Purchased",
+          "Unnamed: 3",
+          "Average PricePaid Per Share",
+          "Unnamed: 5",
+          "Total Number of SharesPurchased as Part of PubliclyAnnounced Plans or Programs",
+          "Unnamed: 7",
+          "Approximate Dollar Value ofShares That May Yet Be PurchasedUnder the Plans or Programs (1)",
+          "Unnamed: 9",
+          "Unnamed: 10",
+          "Unnamed: 11",
+          "Unnamed: 12"
+        ]
+      }
+    ]
+  }
+}

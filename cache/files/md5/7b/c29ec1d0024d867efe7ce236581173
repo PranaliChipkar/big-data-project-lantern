@@ -1,0 +1,66 @@
+[
+  {
+    "file": "sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+    "status": "success",
+    "method": "html_parser",
+    "char_count": 71542,
+    "word_count": 10328,
+    "error": null
+  },
+  {
+    "file": "sec-edgar-filings/AAPL/10-Q/0000320193-25-000057/primary-document.html",
+    "status": "success",
+    "method": "html_parser",
+    "char_count": 82980,
+    "word_count": 11968,
+    "error": null
+  },
+  {
+    "file": "sec-edgar-filings/AAPL/10-K/0000320193-25-000079/primary-document.html",
+    "status": "success",
+    "method": "html_parser",
+    "char_count": 220635,
+    "word_count": 32213,
+    "error": null
+  },
+  {
+    "file": "sec-edgar-filings/AAPL/10-K/0000320193-24-000123/primary-document.html",
+    "status": "success",
+    "method": "html_parser",
+    "char_count": 218656,
+    "word_count": 31879,
+    "error": null
+  },
+  {
+    "file": "sec-edgar-filings/MSFT/10-Q/0000950170-25-061046/primary-document.html",
+    "status": "success",
+    "method": "html_parser",
+    "char_count": 241795,
+    "word_count": 34074,
+    "error": null
+  },
+  {
+    "file": "sec-edgar-filings/MSFT/10-Q/0001193125-25-256321/primary-document.html",
+    "status": "success",
+    "method": "html_parser",
+    "char_count": 210013,
+    "word_count": 29610,
+    "error": null
+  },
+  {
+    "file": "sec-edgar-filings/MSFT/10-K/0000950170-25-100235/primary-document.html",
+    "status": "success",
+    "method": "html_parser",
+    "char_count": 347391,
+    "word_count": 49356,
+    "error": null
+  },
+  {
+    "file": "sec-edgar-filings/MSFT/10-K/0000950170-24-087843/primary-document.html",
+    "status": "success",
+    "method": "html_parser",
+    "char_count": 390416,
+    "word_count": 55579,
+    "error": null
+  }
+]

@@ -1,0 +1,53 @@
+# Storage Format Comparison Report
+
+Generated: 2025-11-30T11:56:32.703110
+
+## Performance Metrics
+
+| Format | File Size | Write Time | Read Time | Search Time | Compression |
+|--------|-----------|------------|-----------|-------------|-------------|
+| MD | 2,466 bytes | 0.0002s | 0.0000s | 0.0000s | 648.22x |
+| JSON | 14,124 bytes | 0.0002s | 0.0000s | 0.0000s | 113.18x |
+| TXT | 1,417 bytes | 0.0001s | 0.0000s | 0.0000s | 1128.09x |
+| JSONL | 7,482 bytes | 0.0002s | 0.0000s | 0.0000s | 213.65x |
+
+## Qualitative Scores (1-10)
+
+| Format | Human Readable | Machine Parsable | Structure | Metadata |
+|--------|----------------|------------------|-----------|----------|
+| MD | 9 | 6 | 8 | 7 |
+| JSON | 5 | 10 | 10 | 10 |
+| TXT | 7 | 3 | 3 | 2 |
+| JSONL | 4 | 9 | 8 | 9 |
+
+## Recommendations
+
+### Use Cases by Format
+
+**Markdown (.md)**
+- ✅ Best for: Human review, documentation, reports
+- ✅ Preserves document structure well
+- ❌ Not ideal for: Machine processing, large-scale analysis
+
+**JSON (.json)**
+- ✅ Best for: APIs, full data preservation, complex queries
+- ✅ Perfect structure and metadata preservation
+- ❌ Not ideal for: Human reading, large files
+
+**Plain Text (.txt)**
+- ✅ Best for: Simple searches, legacy systems, minimal storage
+- ✅ Universal compatibility
+- ❌ Not ideal for: Structure preservation, metadata
+
+**JSONL (.jsonl)**
+- ✅ Best for: Streaming, large datasets, line-by-line processing
+- ✅ Good balance of structure and efficiency
+- ❌ Not ideal for: Human reading, nested structures
+
+### Overall Recommendation
+
+For this SEC filing dataset:
+1. **Primary storage**: JSONL for efficient processing and streaming
+2. **Human review**: Markdown summaries for key documents
+3. **API/Integration**: JSON for structured access
+4. **Search/Index**: Plain text for full-text search engines

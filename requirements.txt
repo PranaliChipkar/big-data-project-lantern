@@ -1,0 +1,50 @@
+# Minimal requirements for Project LANTERN
+# Updated for Python 3.13 compatibility
+
+# SEC Data Download
+sec-edgar-downloader==5.0.3
+
+# PDF Processing
+pdfplumber==0.10.3
+PyPDF2==3.0.1
+pytesseract==0.3.10
+
+# Data Processing - Updated for Python 3.13
+pandas>=2.2.0  # Version 2.2+ supports Python 3.13
+numpy>=1.26.0  # Compatible with Python 3.13
+openpyxl==3.1.2
+
+# Visualization
+matplotlib==3.8.2
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+jsonlines==4.0.0
+
+# Testing
+pytest==7.4.3
+
+# Documentation
+jupyter==1.0.0
+
+# OCR support
+Pillow>=9.0.0
+
+# Basic table extraction
+tabulate>=0.8.9
+
+# File handling
+lxml>=4.9.0
+chardet>=5.0.0
+
+dvc
+boto3 
+awscli
+docling
+docling-core
+docling-parse
+opencv-python
+layoutparser
+layoutparser[paddledetection]
+layoutparser[tesseract]

@@ -1,0 +1,54 @@
+{
+  "file": "primary-document.html",
+  "traditional_pipeline": {
+    "components": [
+      "pdfplumber",
+      "BeautifulSoup",
+      "custom_extractors"
+    ],
+    "steps": 4,
+    "outputs": [
+      "text",
+      "tables",
+      "layout"
+    ],
+    "formats": [
+      "txt",
+      "csv",
+      "json"
+    ]
+  },
+  "docling_approach": {
+    "components": [
+      "unified_docling_engine"
+    ],
+    "steps": 1,
+    "outputs": [
+      "DoclingDocument"
+    ],
+    "formats": [
+      "markdown",
+      "json",
+      "html"
+    ]
+  },
+  "comparison": {
+    "ease_of_use": {
+      "traditional": "Requires multiple tools and custom integration",
+      "docling": "Single API call with unified output"
+    },
+    "accuracy": {
+      "traditional": "Good for specific document types we optimize for",
+      "docling": "Better generalization across document types"
+    },
+    "performance": {
+      "traditional": "Can be faster for simple extractions",
+      "docling": "More comprehensive but potentially slower"
+    },
+    "flexibility": {
+      "traditional": "Highly customizable for specific needs",
+      "docling": "Less customizable but more robust defaults"
+    }
+  },
+  "recommendation": "For SEC filings: Traditional pipeline offers more control over financial table extraction and SEC-specific formatting. Consider Docling for: (1) Rapid prototyping, (2) Mixed document types, (3) When unified output format is priority."
+}

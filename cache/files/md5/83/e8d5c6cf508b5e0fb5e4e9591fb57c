@@ -1,0 +1,11 @@
+{
+  "table_index": 69,
+  "table_type": "financial_data",
+  "rows": 8,
+  "cols": 5,
+  "has_header": true,
+  "method": "html_parser",
+  "confidence": "high",
+  "source_file": "primary-document.html",
+  "csv_file": "primary-document_financial_data_64.csv"
+}

@@ -1,0 +1,17 @@
+cmd: python src/parsers/pdf_parser.py
+deps:
+- path: data/raw/pdfs/sec-edgar-filings
+  hash: md5
+  md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+  size: 181846929
+  nfiles: 16
+- path: src/parsers/pdf_parser.py
+  hash: md5
+  md5: 6110481cbc96c9f0edf00d1b80146061
+  size: 15391
+outs:
+- path: data/parsed/text
+  hash: md5
+  md5: 48cf5b82c99aba4901bbefce766b5771.dir
+  size: 2014780
+  nfiles: 18

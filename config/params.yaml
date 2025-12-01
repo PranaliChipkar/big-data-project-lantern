@@ -1,0 +1,36 @@
+# DVC Pipeline Parameters
+# These parameters can be changed to modify pipeline behavior
+
+download:
+  tickers: ["AAPL", "MSFT"]
+  filing_types: ["10-K", "10-Q"]
+  limit: 2
+  start_date: "2022-01-01"
+  end_date: "2024-12-31"
+
+parsing:
+  ocr_enabled: true
+  ocr_tool: "tesseract"
+  confidence_threshold: 0.8
+
+table_extraction:
+  methods: ["camelot_lattice", "camelot_stream", "pdfplumber"]
+  min_rows: 3
+  min_cols: 2
+
+layout_detection:
+  model: "tesseract"  # or "detectron2" if available
+  confidence_threshold: 0.5
+
+metadata:
+  schema_version: "1.0"
+  include_provenance: true
+  include_statistics: true
+
+output:
+  formats: ["jsonl", "markdown", "json", "txt"]
+  compress: false
+
+evaluation:
+  metrics: ["wer", "precision", "recall"]
+  ground_truth_path: "data/ground_truth"

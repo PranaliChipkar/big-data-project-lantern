@@ -1,0 +1,17 @@
+cmd: python src/parsers/docling_parser.py
+deps:
+- path: data/raw/pdfs/sec-edgar-filings
+  hash: md5
+  md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+  size: 181846929
+  nfiles: 16
+- path: src/parsers/docling_parser.py
+  hash: md5
+  md5: c814e010888c79d29b8a415d977e3f03
+  size: 16231
+outs:
+- path: data/parsed/docling
+  hash: md5
+  md5: a4e19457292b4e2392aa6d47cd4cff13.dir
+  size: 4080371
+  nfiles: 25

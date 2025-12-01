@@ -1,0 +1,6 @@
+[cache]
+    dir = ../cache
+[core]
+    remote = local
+['remote "local"']
+    url = /Users/pranalichipkar/Documents/BigDataProjects/big-data-project-lantern/dvc-storage

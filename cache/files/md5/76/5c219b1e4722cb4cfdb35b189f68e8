@@ -1,0 +1,106 @@
+[
+  {
+    "file": "sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html",
+    "status": "success",
+    "method": "docling",
+    "has_markdown": true,
+    "has_tables": false,
+    "features": {
+      "reading_order": true,
+      "table_structure": true,
+      "formula_detection": false,
+      "layout_preservation": true
+    }
+  },
+  {
+    "file": "sec-edgar-filings/AAPL/10-Q/0000320193-25-000057/primary-document.html",
+    "status": "success",
+    "method": "docling",
+    "has_markdown": true,
+    "has_tables": false,
+    "features": {
+      "reading_order": true,
+      "table_structure": true,
+      "formula_detection": false,
+      "layout_preservation": true
+    }
+  },
+  {
+    "file": "sec-edgar-filings/AAPL/10-K/0000320193-25-000079/primary-document.html",
+    "status": "success",
+    "method": "docling",
+    "has_markdown": true,
+    "has_tables": false,
+    "features": {
+      "reading_order": true,
+      "table_structure": true,
+      "formula_detection": false,
+      "layout_preservation": true
+    }
+  },
+  {
+    "file": "sec-edgar-filings/AAPL/10-K/0000320193-24-000123/primary-document.html",
+    "status": "success",
+    "method": "docling",
+    "has_markdown": true,
+    "has_tables": false,
+    "features": {
+      "reading_order": true,
+      "table_structure": true,
+      "formula_detection": false,
+      "layout_preservation": true
+    }
+  },
+  {
+    "file": "sec-edgar-filings/MSFT/10-Q/0000950170-25-061046/primary-document.html",
+    "status": "success",
+    "method": "docling",
+    "has_markdown": true,
+    "has_tables": false,
+    "features": {
+      "reading_order": true,
+      "table_structure": true,
+      "formula_detection": false,
+      "layout_preservation": true
+    }
+  },
+  {
+    "file": "sec-edgar-filings/MSFT/10-Q/0001193125-25-256321/primary-document.html",
+    "status": "success",
+    "method": "docling",
+    "has_markdown": true,
+    "has_tables": false,
+    "features": {
+      "reading_order": true,
+      "table_structure": true,
+      "formula_detection": false,
+      "layout_preservation": true
+    }
+  },
+  {
+    "file": "sec-edgar-filings/MSFT/10-K/0000950170-25-100235/primary-document.html",
+    "status": "success",
+    "method": "docling",
+    "has_markdown": true,
+    "has_tables": false,
+    "features": {
+      "reading_order": true,
+      "table_structure": true,
+      "formula_detection": false,
+      "layout_preservation": true
+    }
+  },
+  {
+    "file": "sec-edgar-filings/MSFT/10-K/0000950170-24-087843/primary-document.html",
+    "status": "success",
+    "method": "docling",
+    "has_markdown": true,
+    "has_tables": false,
+    "features": {
+      "reading_order": true,
+      "table_structure": true,
+      "formula_detection": false,
+      "layout_preservation": true
+    }
+  }
+]

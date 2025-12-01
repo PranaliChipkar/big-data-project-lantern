@@ -1,0 +1,17 @@
+cmd: python src/utils/format_comparison.py
+deps:
+- path: data/parsed/metadata
+  hash: md5
+  md5: 8d72e2114b7a0b1beff27165b5c3a8e7.dir
+  size: 2486624
+  nfiles: 20
+- path: src/utils/format_comparison.py
+  hash: md5
+  md5: c122cd74d955dbc5223cf24b35e57e98
+  size: 16244
+outs:
+- path: data/parsed/format_comparison
+  hash: md5
+  md5: be077b8b7eb73e42ee4144661d5d3401.dir
+  size: 27319
+  nfiles: 5

@@ -1,0 +1,27 @@
+cmd: python src/utils/metadata.py
+deps:
+- path: data/parsed/layouts
+  hash: md5
+  md5: f23359900e4cb6bea9ff805ab22a642c.dir
+  size: 252722
+  nfiles: 18
+- path: data/parsed/tables
+  hash: md5
+  md5: 318094986f1fa8c59a2e044110a0a8a7.dir
+  size: 428707
+  nfiles: 846
+- path: data/parsed/text
+  hash: md5
+  md5: 48cf5b82c99aba4901bbefce766b5771.dir
+  size: 2014780
+  nfiles: 18
+- path: src/utils/metadata.py
+  hash: md5
+  md5: 8bab596c8368ffb2674eaf95815a4b9f
+  size: 20468
+outs:
+- path: data/parsed/metadata
+  hash: md5
+  md5: 8d72e2114b7a0b1beff27165b5c3a8e7.dir
+  size: 2486624
+  nfiles: 20

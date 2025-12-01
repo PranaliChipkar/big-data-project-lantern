@@ -1,0 +1,125 @@
+# SEC Filings Dataset
+
+## Documents
+
+### AAPL - unknown
+- **Document ID**: a1b3a4e2c9e5
+- **Source**: data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000073/primary-document.html
+
+### AAPL - unknown
+- **Document ID**: 2de30049b33d
+- **Source**: data/raw/pdfs/sec-edgar-filings/AAPL/10-Q/0000320193-25-000057/primary-document.html
+
+### AAPL - unknown
+- **Document ID**: 3570547a79ec
+- **Source**: data/raw/pdfs/sec-edgar-filings/AAPL/10-K/0000320193-25-000079/primary-document.html
+
+### AAPL - unknown
+- **Document ID**: 0a27c3bc190a
+- **Source**: data/raw/pdfs/sec-edgar-filings/AAPL/10-K/0000320193-24-000123/primary-document.html
+
+### MSFT - unknown
+- **Document ID**: 82414a4e34d3
+- **Source**: data/raw/pdfs/sec-edgar-filings/MSFT/10-Q/0000950170-25-061046/primary-document.html
+
+### MSFT - unknown
+- **Document ID**: c21348bbd000
+- **Source**: data/raw/pdfs/sec-edgar-filings/MSFT/10-Q/0001193125-25-256321/primary-document.html
+
+### MSFT - unknown
+- **Document ID**: 3d13ca962526
+- **Source**: data/raw/pdfs/sec-edgar-filings/MSFT/10-K/0000950170-25-100235/primary-document.html
+
+### MSFT - unknown
+- **Document ID**: bb08759bdab3
+- **Source**: data/raw/pdfs/sec-edgar-filings/MSFT/10-K/0000950170-24-087843/primary-document.html
+
+## Sample Content Blocks
+
+### Block: a1b3a4e2c9e5_text_0000
+- **Type**: text
+- **Section**: introduction
+- **Page**: 1
+
+aapl-20250628
+false
+2025
+Q3
+0000320193
+--09-27
+P1Y
+P1Y
+P1Y
+P1Y
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+aapl:Customer
+aapl:Vendor
+0000320193
+2024-09-29
+2025-06-28
+0000320193
+us-gaa...
+
+---
+
+### Block: a1b3a4e2c9e5_text_0001
+- **Type**: text
+- **Section**: us-gaap:MaterialReconcilingItemsMember
+- **Page**: 1
+
+2023-10-01
+2024-06-29
+0000320193
+us-gaap:CorporateNonSegmentMember
+2025-03-30
+2025-06-28
+0000320193
+us-gaap:CorporateNonSegmentMember
+2024-03-31
+2024-06-29
+0000320193
+us-gaap:CorporateNonSegmentMember...
+
+---
+
+### Block: a1b3a4e2c9e5_text_0002
+- **Type**: text
+- **Section**: Item 1.
+- **Page**: 1
+
+Legal Proceedings
+20...
+
+---
+
+### Block: a1b3a4e2c9e5_text_0003
+- **Type**: text
+- **Section**: Item 2.
+- **Page**: 1
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+21...
+
+---
+
+### Block: a1b3a4e2c9e5_text_0004
+- **Type**: text
+- **Section**: Item 3.
+- **Page**: 1
+
+Defaults Upon Senior Securities
+21...
+
+---
+
+## Tables
+
+Total tables: 422
+
+- financial_data: 16 rows × 16 columns
+- financial_data: 7 rows × 16 columns
+- financial_data: 4 rows × 16 columns

@@ -1,0 +1,1908 @@
+{
+  "status": "success",
+  "method": "html_parser",
+  "sections": [
+    {
+      "title": "financial statements",
+      "start": 36978,
+      "end": 36998
+    },
+    {
+      "title": "financial statements",
+      "start": 37096,
+      "end": 37116
+    },
+    {
+      "title": "Part III",
+      "start": 38040,
+      "end": 38048
+    },
+    {
+      "title": "PART I",
+      "start": 38133,
+      "end": 38139
+    },
+    {
+      "title": "Item 1.\nBusiness",
+      "start": 38140,
+      "end": 38156
+    },
+    {
+      "title": "Item 1A.\nRisk Factors",
+      "start": 38203,
+      "end": 38224
+    },
+    {
+      "title": "Risk Factors",
+      "start": 38212,
+      "end": 38224
+    },
+    {
+      "title": "Item 1B.\nUnresolved Staff Comments",
+      "start": 38228,
+      "end": 38262
+    },
+    {
+      "title": "Item 1C.\nCybersecurity",
+      "start": 38266,
+      "end": 38288
+    },
+    {
+      "title": "Item 2.\nProperties",
+      "start": 38292,
+      "end": 38310
+    },
+    {
+      "title": "Item 3.\nLegal Proceedings",
+      "start": 38314,
+      "end": 38339
+    },
+    {
+      "title": "Item 4.\nMine Safety Disclosures",
+      "start": 38343,
+      "end": 38374
+    },
+    {
+      "title": "PART II",
+      "start": 38378,
+      "end": 38385
+    },
+    {
+      "title": "Item 5.\nMarket for Registrant\u2019s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities",
+      "start": 38386,
+      "end": 38503
+    },
+    {
+      "title": "Item 6.\n[Reserved]",
+      "start": 38507,
+      "end": 38525
+    },
+    {
+      "title": "Item 7.\nManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+      "start": 38529,
+      "end": 38622
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 38537,
+      "end": 38573
+    },
+    {
+      "title": "Item 7A.\nQuantitative and Qualitative Disclosures About Market Risk",
+      "start": 38626,
+      "end": 38693
+    },
+    {
+      "title": "Item 8.\nFinancial Statements and Supplementary Data",
+      "start": 38697,
+      "end": 38748
+    },
+    {
+      "title": "Financial Statements",
+      "start": 38705,
+      "end": 38725
+    },
+    {
+      "title": "Item 9.\nChanges in and Disagreements with Accountants on Accounting and Financial Disclosure",
+      "start": 38752,
+      "end": 38844
+    },
+    {
+      "title": "Item 9A.\nControls and Procedures",
+      "start": 38848,
+      "end": 38880
+    },
+    {
+      "title": "Item 9B.\nOther Information",
+      "start": 39012,
+      "end": 39038
+    },
+    {
+      "title": "Item 9C.\nDisclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+      "start": 39042,
+      "end": 39118
+    },
+    {
+      "title": "PART III",
+      "start": 39122,
+      "end": 39130
+    },
+    {
+      "title": "Item 10.\nDirectors, Executive Officers, and Corporate Governance",
+      "start": 39131,
+      "end": 39195
+    },
+    {
+      "title": "Item 11.\nExecutive Compensation",
+      "start": 39199,
+      "end": 39230
+    },
+    {
+      "title": "Item 12.\nSecurity Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+      "start": 39234,
+      "end": 39337
+    },
+    {
+      "title": "Item 13.\nCertain Relationships and Related Transactions, and Director Independence",
+      "start": 39341,
+      "end": 39423
+    },
+    {
+      "title": "Item 14.\nPrincipal Accountant Fees and Services",
+      "start": 39427,
+      "end": 39474
+    },
+    {
+      "title": "PART IV",
+      "start": 39478,
+      "end": 39485
+    },
+    {
+      "title": "Item 15.\nExhibit and Financial Statement Schedules",
+      "start": 39486,
+      "end": 39536
+    },
+    {
+      "title": "Item 16.\nForm 10-K Summary",
+      "start": 39540,
+      "end": 39566
+    },
+    {
+      "title": "PART I",
+      "start": 39588,
+      "end": 39594
+    },
+    {
+      "title": "Item 1\nNote About Forward-Looking Statements",
+      "start": 39595,
+      "end": 39639
+    },
+    {
+      "title": "Part I",
+      "start": 40092,
+      "end": 40098
+    },
+    {
+      "title": "Item 1 of this Form 10-K), \u201cRisk Factors\u201d (Part I, Item 1A of this Form 10-K), and \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d (Part II, Item 7 of this Form 10-K). These forward-looking statements generally are identified by the words \u201cbelieve,\u201d \u201cproject,\u201d \u201cexpect,\u201d \u201canticipate,\u201d \u201cestimate,\u201d \u201cintend,\u201d \u201cstrategy,\u201d \u201cfuture,\u201d \u201copportunity,\u201d \u201cplan,\u201d \u201cmay,\u201d \u201cshould,\u201d \u201cwill,\u201d \u201cwould,\u201d \u201cwill be,\u201d \u201cwill continue,\u201d \u201cwill likely result,\u201d and similar expressions. Forward-looking statements are based on current expectations and assumptions that are subject to risks and uncertainties that may cause actual results to differ materially. We describe risks and uncertainties that could cause actual results and events to differ materially in \u201cRisk Factors,\u201d \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations,\u201d and \u201cQuantitative and Qualitative Disclosures About Market Risk\u201d (Part II, Item 7A of this Form 10-K). Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date they are made. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events, or otherwise.",
+      "start": 40100,
+      "end": 41365
+    },
+    {
+      "title": "Risk Factors",
+      "start": 40128,
+      "end": 40140
+    },
+    {
+      "title": "Part I",
+      "start": 40143,
+      "end": 40149
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 40184,
+      "end": 40220
+    },
+    {
+      "title": "Part II",
+      "start": 40272,
+      "end": 40279
+    },
+    {
+      "title": "Risk Factors",
+      "start": 40878,
+      "end": 40890
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 40894,
+      "end": 40930
+    },
+    {
+      "title": "Part II",
+      "start": 41048,
+      "end": 41055
+    },
+    {
+      "title": "PART\nI",
+      "start": 41366,
+      "end": 41372
+    },
+    {
+      "title": "ITEM 1. B",
+      "start": 41373,
+      "end": 41382
+    },
+    {
+      "title": "PART I",
+      "start": 43593,
+      "end": 43599
+    },
+    {
+      "title": "Item 1\nThe Microsoft Cloud provides integration across the technology stack while offering openness, improving time to value, reducing costs, and increasing agility. Our cloud business benefits from three economies of scale: datacenters that deploy computational resources at significantly lower cost per unit than smaller ones; datacenters that coordinate and aggregate diverse customer, geographic, and application demand patterns, improving the utilization of computing, storage, and network resources; and multi-tenancy locations that lower application maintenance labor costs.",
+      "start": 43600,
+      "end": 44181
+    },
+    {
+      "title": "PART I",
+      "start": 47632,
+      "end": 47638
+    },
+    {
+      "title": "Item 1\nOPERATING SEGMENTS",
+      "start": 47639,
+      "end": 47664
+    },
+    {
+      "title": "Financial Statements",
+      "start": 48814,
+      "end": 48834
+    },
+    {
+      "title": "Part II",
+      "start": 48836,
+      "end": 48843
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 48845,
+      "end": 48871
+    },
+    {
+      "title": "PART I",
+      "start": 51828,
+      "end": 51834
+    },
+    {
+      "title": "Item 1\nLinkedIn",
+      "start": 51835,
+      "end": 51850
+    },
+    {
+      "title": "PART I",
+      "start": 55561,
+      "end": 55567
+    },
+    {
+      "title": "Item 1\nServer Products and Cloud Services",
+      "start": 55568,
+      "end": 55609
+    },
+    {
+      "title": "PART I",
+      "start": 60143,
+      "end": 60149
+    },
+    {
+      "title": "Item 1\nOur database, business intelligence, and data warehousing solutions offerings compete with products from providers in the data and analytics industry. Our system management solutions compete with server management and server virtualization platform providers. Our products for software developers compete against offerings from major technology providers, as well as open source alternatives.",
+      "start": 60150,
+      "end": 60549
+    },
+    {
+      "title": "PART I",
+      "start": 63470,
+      "end": 63476
+    },
+    {
+      "title": "Item 1\nGaming",
+      "start": 63477,
+      "end": 63490
+    },
+    {
+      "title": "PART I",
+      "start": 68155,
+      "end": 68161
+    },
+    {
+      "title": "Item 1\nWe design our programs to attract, reward, and retain top talent while fostering continuous employee development and reinforcing our organizational culture and values. Our total compensation offering is both highly differentiated and competitive within the market, and we also monitor pay equity across multiple dimensions. We have invested significantly in employee wellbeing and offer a differentiated benefits package which includes many physical, emotional, and financial wellness programs. We also provide access to continuous learning through a wide range of internal and external content, supporting professional growth across roles and disciplines. Through our employee listening systems, we gather direct feedback from our workforce, enabling us to adapt our programs and address employee needs globally with real-time insights. Additionally, our culture prioritizes the security of both our customers and Microsoft, embedding this responsibility across all teams and functions.",
+      "start": 68162,
+      "end": 69156
+    },
+    {
+      "title": "PART I",
+      "start": 72083,
+      "end": 72089
+    },
+    {
+      "title": "Item 1\nIntellectual Property",
+      "start": 72090,
+      "end": 72118
+    },
+    {
+      "title": "PART I",
+      "start": 76756,
+      "end": 76762
+    },
+    {
+      "title": "Item 1\nOEMs",
+      "start": 76763,
+      "end": 76774
+    },
+    {
+      "title": "PART I",
+      "start": 80292,
+      "end": 80298
+    },
+    {
+      "title": "Item 1\nOpen Value",
+      "start": 80299,
+      "end": 80316
+    },
+    {
+      "title": "Risk Factors",
+      "start": 83385,
+      "end": 83397
+    },
+    {
+      "title": "Part I",
+      "start": 83399,
+      "end": 83405
+    },
+    {
+      "title": "Item 1A of this Form 10-K).",
+      "start": 83407,
+      "end": 83434
+    },
+    {
+      "title": "PART I",
+      "start": 83438,
+      "end": 83444
+    },
+    {
+      "title": "Item 1\nINFORMATION ABOUT OUR EXECUTIV",
+      "start": 83445,
+      "end": 83482
+    },
+    {
+      "title": "PART I",
+      "start": 87653,
+      "end": 87659
+    },
+    {
+      "title": "Item 1\nAVAILABLE INFORMATION",
+      "start": 87660,
+      "end": 87688
+    },
+    {
+      "title": "PART I",
+      "start": 90025,
+      "end": 90031
+    },
+    {
+      "title": "Item 1A\nITEM 1A. RIS",
+      "start": 90032,
+      "end": 90052
+    },
+    {
+      "title": "PART I",
+      "start": 94672,
+      "end": 94678
+    },
+    {
+      "title": "Item 1A\nBusiness model competition",
+      "start": 94679,
+      "end": 94713
+    },
+    {
+      "title": "PART I",
+      "start": 98914,
+      "end": 98920
+    },
+    {
+      "title": "Item 1A\nOur AI systems offer users powerful tools and capabilities. However, there may be instances where these systems are used in ways that are unintended or inappropriate. In addition, some users may also engage in fraudulent or abusive activities through our cloud-based and AI services, such as unauthorized account access, payment fraud, or terms of service violations including cryptocurrency mining or launching cyberattacks. While we are committed to detecting and controlling such misuse of our cloud-based and AI services, our efforts may not be effective, and we may incur reputational damage or experience adverse impacts to our business and results of operations.",
+      "start": 98921,
+      "end": 99598
+    },
+    {
+      "title": "financial statements",
+      "start": 103435,
+      "end": 103455
+    },
+    {
+      "title": "PART I",
+      "start": 103813,
+      "end": 103819
+    },
+    {
+      "title": "Item 1A\nCYBERSECURITY, DATA PRIVACY, AND PLATFORM ABUSE RISKS",
+      "start": 103820,
+      "end": 103881
+    },
+    {
+      "title": "PART I",
+      "start": 109612,
+      "end": 109618
+    },
+    {
+      "title": "Item 1A\nOur internal environment continues to evolve. Often, we are early adopters of new devices and technologies. We embrace new ways of sharing data and communicating internally and with partners and customers using methods such as social networking and other consumer-oriented technologies. Increasing use of generative AI models in our internal systems may create new attack surfaces or methods for adversaries. Our business policies and internal security controls may not keep pace with these changes as new threats emerge or the emerging cybersecurity regulations in jurisdictions worldwide.",
+      "start": 109619,
+      "end": 110217
+    },
+    {
+      "title": "PART I",
+      "start": 114556,
+      "end": 114562
+    },
+    {
+      "title": "Item 1A\nDevelopment and deployment of defensive measures",
+      "start": 114563,
+      "end": 114619
+    },
+    {
+      "title": "PART I",
+      "start": 120581,
+      "end": 120587
+    },
+    {
+      "title": "Item 1A\nAbuse of our platforms may harm our reputation or user engagement.",
+      "start": 120588,
+      "end": 120662
+    },
+    {
+      "title": "PART I",
+      "start": 124028,
+      "end": 124034
+    },
+    {
+      "title": "Item 1A\nIssues in the development, deployment, and use of AI may result in reputational or competitive harm or liability",
+      "start": 124035,
+      "end": 124155
+    },
+    {
+      "title": "PART I",
+      "start": 130108,
+      "end": 130114
+    },
+    {
+      "title": "Item 1A\nOur software products and services also have and may in the future experience quality or reliability problems. The processes we use to develop our software are imperfect. Like all software, our software contains bugs and other defects that interfere with their intended operation. Our customers increasingly rely on us for critical business functions and multiple workloads. Many of our products and services are interdependent on one another. Our products and services may be impacted by interaction with third-party products and services. Our customers may also utilize their own or third-party products and services whose reliability is dependent on interaction with our products and services. Each of these circumstances potentially magnifies the impact of quality or reliability issues. Weaknesses in our processes could result in defects we do not detect and fix in pre-release testing, which could cause reduced sales, damage to our reputation, repair or remediation costs, delays in the release of new products or versions, or legal liability, and could adversely affect our business, financial condition, and results of operations. Although our license agreements typically contain provisions that eliminate or limit our exposure to liability, there is no assurance these provisions will withstand legal challenge.",
+      "start": 130115,
+      "end": 131446
+    },
+    {
+      "title": "PART I",
+      "start": 135695,
+      "end": 135701
+    },
+    {
+      "title": "Item 1A\n\u2022",
+      "start": 135702,
+      "end": 135711
+    },
+    {
+      "title": "PART I",
+      "start": 141019,
+      "end": 141025
+    },
+    {
+      "title": "Item 1A\nWe have claims and lawsuits against us that may result in adverse outcomes.",
+      "start": 141026,
+      "end": 141109
+    },
+    {
+      "title": "financial statements",
+      "start": 144869,
+      "end": 144889
+    },
+    {
+      "title": "PART I",
+      "start": 146577,
+      "end": 146583
+    },
+    {
+      "title": "Item 1A\nSource code, the detailed program commands for our operating systems and other software programs, is critical to our business. If our source code leaks, we might lose future trade secret protection for that code. It may then become easier for third parties to compete with our products by copying functionality, which could adversely affect our results of operations. Unauthorized access to or disclosure of source code or other intellectual property also increases the security risks described elsewhere in these risk factors.",
+      "start": 146584,
+      "end": 147119
+    },
+    {
+      "title": "risk factors",
+      "start": 147106,
+      "end": 147118
+    },
+    {
+      "title": "PART I",
+      "start": 151403,
+      "end": 151409
+    },
+    {
+      "title": "Item 1A\nCatastrophic events or geopolitical conditions could disrupt our business.",
+      "start": 151410,
+      "end": 151492
+    },
+    {
+      "title": "risk factors",
+      "start": 153689,
+      "end": 153701
+    },
+    {
+      "title": "Risk Factors",
+      "start": 154289,
+      "end": 154301
+    },
+    {
+      "title": "PART I",
+      "start": 157030,
+      "end": 157036
+    },
+    {
+      "title": "Item 1A\nOur business depends on our ability to attract and retain talented employees.",
+      "start": 157037,
+      "end": 157122
+    },
+    {
+      "title": "PART I",
+      "start": 158989,
+      "end": 158995
+    },
+    {
+      "title": "ITEM 1B. UNRESOLVE",
+      "start": 159008,
+      "end": 159026
+    },
+    {
+      "title": "ITEM 1C. CY",
+      "start": 159280,
+      "end": 159291
+    },
+    {
+      "title": "PART I",
+      "start": 163340,
+      "end": 163346
+    },
+    {
+      "title": "Item 1C\nWhen appropriate, we utilize external service providers to assess, test, or otherwise assist our program. We also leverage third parties by working with external researchers, operating bug bounty programs, and managing coordinated vulnerability disclosure programs with security organizations.",
+      "start": 163347,
+      "end": 163648
+    },
+    {
+      "title": "Risk Factors",
+      "start": 165153,
+      "end": 165165
+    },
+    {
+      "title": "Part I",
+      "start": 165168,
+      "end": 165174
+    },
+    {
+      "title": "Item 1A of this Form 10-K). As of the date of this Form 10-K, we do not believe any risks from cybersecurity threats have materially affected or are reasonably likely to materially affect us, including our results of operations or financial condition.",
+      "start": 165176,
+      "end": 165427
+    },
+    {
+      "title": "PART I",
+      "start": 168459,
+      "end": 168465
+    },
+    {
+      "title": "ITEM 2. PR",
+      "start": 168479,
+      "end": 168489
+    },
+    {
+      "title": "Part I",
+      "start": 169481,
+      "end": 169487
+    },
+    {
+      "title": "Item 1 of this Form 10-K) for further discussion of our research and development facilities.",
+      "start": 169489,
+      "end": 169581
+    },
+    {
+      "title": "ITEM 3. LEGAL",
+      "start": 169831,
+      "end": 169844
+    },
+    {
+      "title": "Financial Statements",
+      "start": 169906,
+      "end": 169926
+    },
+    {
+      "title": "Part II",
+      "start": 169928,
+      "end": 169935
+    },
+    {
+      "title": "Item 8 of this Form 10-K) for information regarding legal proceedings in which we are involved.",
+      "start": 169937,
+      "end": 170032
+    },
+    {
+      "title": "ITEM 4. MINE SAFE",
+      "start": 170033,
+      "end": 170050
+    },
+    {
+      "title": "PART II",
+      "start": 170085,
+      "end": 170092
+    },
+    {
+      "title": "Item 5\nPAR",
+      "start": 170093,
+      "end": 170103
+    },
+    {
+      "title": "ITEM 5. MARKET FOR REGISTRANT\u2019S COM",
+      "start": 170109,
+      "end": 170144
+    },
+    {
+      "title": "Financial Statements",
+      "start": 172033,
+      "end": 172053
+    },
+    {
+      "title": "Part II",
+      "start": 172055,
+      "end": 172062
+    },
+    {
+      "title": "Item 8 of this Form 10-K) for further discussion regarding share repurchases and dividends.",
+      "start": 172064,
+      "end": 172155
+    },
+    {
+      "title": "PART II",
+      "start": 172546,
+      "end": 172553
+    },
+    {
+      "title": "Item 6\nITEM 6. [R",
+      "start": 172554,
+      "end": 172571
+    },
+    {
+      "title": "PART II",
+      "start": 172584,
+      "end": 172591
+    },
+    {
+      "title": "Item 7\nITEM 7. MANAGEMENT\u2019S DISCUSSION AND ANALYSIS OF",
+      "start": 172592,
+      "end": 172646
+    },
+    {
+      "title": "MANAGEMENT\u2019S DISCUSSION AND ANALYSIS",
+      "start": 172607,
+      "end": 172643
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 172707,
+      "end": 172743
+    },
+    {
+      "title": "financial statements",
+      "start": 173014,
+      "end": 173034
+    },
+    {
+      "title": "Financial Statements",
+      "start": 173065,
+      "end": 173085
+    },
+    {
+      "title": "Part II",
+      "start": 173087,
+      "end": 173094
+    },
+    {
+      "title": "Item 8 of this Form 10-K). This section generally discusses the results of our operations for the year ended June 30, 2025 compared to the year ended June 30, 2024. For a discussion of the year ended June 30, 2024 compared to the year ended June 30, 2023, please refer to Part II, Item 7, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d in our Annual Report on Form 10-K for the year ended June 30, 2024 and our Form 8-K filed on December 3, 2024.",
+      "start": 173096,
+      "end": 173583
+    },
+    {
+      "title": "Part II",
+      "start": 173368,
+      "end": 173375
+    },
+    {
+      "title": "Management\u2019s Discussion and Analysis",
+      "start": 173386,
+      "end": 173422
+    },
+    {
+      "title": "PART II",
+      "start": 176397,
+      "end": 176404
+    },
+    {
+      "title": "Item 7\nEconomic Conditions, Challenges, and Risks",
+      "start": 176405,
+      "end": 176454
+    },
+    {
+      "title": "Risk Factors",
+      "start": 179421,
+      "end": 179433
+    },
+    {
+      "title": "Part I",
+      "start": 179435,
+      "end": 179441
+    },
+    {
+      "title": "Item 1A of this Form 10-K) for a discussion of these factors and other risks.",
+      "start": 179443,
+      "end": 179520
+    },
+    {
+      "title": "Financial Statements",
+      "start": 180788,
+      "end": 180808
+    },
+    {
+      "title": "Part II",
+      "start": 180810,
+      "end": 180817
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 180819,
+      "end": 180845
+    },
+    {
+      "title": "PART II",
+      "start": 180849,
+      "end": 180856
+    },
+    {
+      "title": "Item 7\nMetrics",
+      "start": 180857,
+      "end": 180871
+    },
+    {
+      "title": "Financial Statements",
+      "start": 181376,
+      "end": 181396
+    },
+    {
+      "title": "Part II",
+      "start": 181398,
+      "end": 181405
+    },
+    {
+      "title": "Item 8 of this Form 10-K). Financial metrics are calculated based on financial results prepared in accordance with accounting principles generally accepted in the United States of America (\u201cGAAP\u201d), and growth comparisons relate to the corresponding period of last fiscal year.",
+      "start": 181407,
+      "end": 181683
+    },
+    {
+      "title": "PART II",
+      "start": 184807,
+      "end": 184814
+    },
+    {
+      "title": "Item 7\nMore Personal Computing",
+      "start": 184815,
+      "end": 184845
+    },
+    {
+      "title": "PART II",
+      "start": 186966,
+      "end": 186973
+    },
+    {
+      "title": "Item 7\nSEGMENT RESULTS OF OPERATIONS",
+      "start": 186974,
+      "end": 187010
+    },
+    {
+      "title": "PART II",
+      "start": 189558,
+      "end": 189565
+    },
+    {
+      "title": "Item 7\nIntelligent Cloud",
+      "start": 189566,
+      "end": 189590
+    },
+    {
+      "title": "PART II",
+      "start": 192430,
+      "end": 192437
+    },
+    {
+      "title": "Item 7\nFiscal Year 2025 Compared with Fiscal Year 2024",
+      "start": 192438,
+      "end": 192492
+    },
+    {
+      "title": "PART II",
+      "start": 194857,
+      "end": 194864
+    },
+    {
+      "title": "Item 7\nFiscal Year 2025 Compared with Fiscal Year 2024",
+      "start": 194865,
+      "end": 194919
+    },
+    {
+      "title": "financial statements",
+      "start": 197131,
+      "end": 197151
+    },
+    {
+      "title": "financial statements",
+      "start": 198811,
+      "end": 198831
+    },
+    {
+      "title": "PART II",
+      "start": 198927,
+      "end": 198934
+    },
+    {
+      "title": "Item 7\nLIQUIDITY AND CAPITAL RESOURCES",
+      "start": 198935,
+      "end": 198973
+    },
+    {
+      "title": "PART II",
+      "start": 203615,
+      "end": 203622
+    },
+    {
+      "title": "Item 7\nDebt Proceeds",
+      "start": 203623,
+      "end": 203643
+    },
+    {
+      "title": "Financial Statements",
+      "start": 204053,
+      "end": 204073
+    },
+    {
+      "title": "Part II",
+      "start": 204075,
+      "end": 204082
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 204084,
+      "end": 204110
+    },
+    {
+      "title": "Financial Statements",
+      "start": 204671,
+      "end": 204691
+    },
+    {
+      "title": "Part II",
+      "start": 204693,
+      "end": 204700
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 204702,
+      "end": 204728
+    },
+    {
+      "title": "Financial Statements",
+      "start": 205364,
+      "end": 205384
+    },
+    {
+      "title": "Part II",
+      "start": 205386,
+      "end": 205393
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 205395,
+      "end": 205421
+    },
+    {
+      "title": "Financial Statements",
+      "start": 206022,
+      "end": 206042
+    },
+    {
+      "title": "Part II",
+      "start": 206044,
+      "end": 206051
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 206053,
+      "end": 206079
+    },
+    {
+      "title": "Financial Statements",
+      "start": 206141,
+      "end": 206161
+    },
+    {
+      "title": "Part II",
+      "start": 206163,
+      "end": 206170
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 206172,
+      "end": 206198
+    },
+    {
+      "title": "Financial Statements",
+      "start": 206245,
+      "end": 206265
+    },
+    {
+      "title": "Part II",
+      "start": 206267,
+      "end": 206274
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 206276,
+      "end": 206302
+    },
+    {
+      "title": "PART II",
+      "start": 206480,
+      "end": 206487
+    },
+    {
+      "title": "Item 7\nIncome Taxes",
+      "start": 206488,
+      "end": 206507
+    },
+    {
+      "title": "Financial Statements",
+      "start": 207403,
+      "end": 207423
+    },
+    {
+      "title": "Part II",
+      "start": 207425,
+      "end": 207432
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 207434,
+      "end": 207460
+    },
+    {
+      "title": "Financial Statements",
+      "start": 207792,
+      "end": 207812
+    },
+    {
+      "title": "Part II",
+      "start": 207814,
+      "end": 207821
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 207823,
+      "end": 207849
+    },
+    {
+      "title": "Financial Statements",
+      "start": 208874,
+      "end": 208894
+    },
+    {
+      "title": "Part II",
+      "start": 208896,
+      "end": 208903
+    },
+    {
+      "title": "Item 8 of this Form 10-K).",
+      "start": 208905,
+      "end": 208931
+    },
+    {
+      "title": "financial statements",
+      "start": 208979,
+      "end": 208999
+    },
+    {
+      "title": "financial statements",
+      "start": 209084,
+      "end": 209104
+    },
+    {
+      "title": "PART II",
+      "start": 210595,
+      "end": 210602
+    },
+    {
+      "title": "Item 7\nJudgment is required to determine the standalone selling price (\u201cSSP\") for each distinct performance obligation. We use a single amount to estimate SSP for items that are not sold separately, including on-premises licenses sold with SA or software updates provided at no additional charge. We use a range of amounts to estimate SSP when we sell each of the products and services separately and need to determine whether there is a discount to be allocated based on the relative SSP of the various products and services.",
+      "start": 210603,
+      "end": 211129
+    },
+    {
+      "title": "PART II",
+      "start": 215755,
+      "end": 215762
+    },
+    {
+      "title": "Item 7\nResearch and Development Costs",
+      "start": 215763,
+      "end": 215800
+    },
+    {
+      "title": "financial statements",
+      "start": 217258,
+      "end": 217278
+    },
+    {
+      "title": "financial statements",
+      "start": 217543,
+      "end": 217563
+    },
+    {
+      "title": "financial statements",
+      "start": 217839,
+      "end": 217859
+    },
+    {
+      "title": "financial statements",
+      "start": 218383,
+      "end": 218403
+    },
+    {
+      "title": "financial statements",
+      "start": 218527,
+      "end": 218547
+    },
+    {
+      "title": "PART II",
+      "start": 218552,
+      "end": 218559
+    },
+    {
+      "title": "Item 7\nSTATEMENT OF MANAGEMENT\u2019S RESPONSIBILITY FOR FINANCIAL STATEMENTS",
+      "start": 218560,
+      "end": 218632
+    },
+    {
+      "title": "FINANCIAL STATEMENTS",
+      "start": 218612,
+      "end": 218632
+    },
+    {
+      "title": "financial statements",
+      "start": 218699,
+      "end": 218719
+    },
+    {
+      "title": "financial statements",
+      "start": 218796,
+      "end": 218816
+    },
+    {
+      "title": "financial statements",
+      "start": 219274,
+      "end": 219294
+    },
+    {
+      "title": "financial statements",
+      "start": 219688,
+      "end": 219708
+    },
+    {
+      "title": "PART II",
+      "start": 220482,
+      "end": 220489
+    },
+    {
+      "title": "Item 7A\nITEM 7A. QUANTITATIVE AND QUALITAT",
+      "start": 220490,
+      "end": 220532
+    },
+    {
+      "title": "financial statements",
+      "start": 220784,
+      "end": 220804
+    },
+    {
+      "title": "PART II",
+      "start": 222423,
+      "end": 222430
+    },
+    {
+      "title": "Item 8\nITEM 8. FINANCIAL STATE",
+      "start": 222431,
+      "end": 222461
+    },
+    {
+      "title": "PART II",
+      "start": 223434,
+      "end": 223441
+    },
+    {
+      "title": "Item 8\nCOMPREHENSIVE IN",
+      "start": 223442,
+      "end": 223465
+    },
+    {
+      "title": "PART II",
+      "start": 223910,
+      "end": 223917
+    },
+    {
+      "title": "Item 8\nBALANCE",
+      "start": 223918,
+      "end": 223932
+    },
+    {
+      "title": "PART II",
+      "start": 225659,
+      "end": 225666
+    },
+    {
+      "title": "Item 8\nCASH FLOWS S",
+      "start": 225667,
+      "end": 225686
+    },
+    {
+      "title": "PART II",
+      "start": 227800,
+      "end": 227807
+    },
+    {
+      "title": "Item 8\nSTOCKHOLDERS\u2019 EQ",
+      "start": 227808,
+      "end": 227831
+    },
+    {
+      "title": "PART II",
+      "start": 228855,
+      "end": 228862
+    },
+    {
+      "title": "Item 8\nNOTES TO FINANCI",
+      "start": 228863,
+      "end": 228886
+    },
+    {
+      "title": "financial statements",
+      "start": 228969,
+      "end": 228989
+    },
+    {
+      "title": "financial statements",
+      "start": 229173,
+      "end": 229193
+    },
+    {
+      "title": "financial statements",
+      "start": 230330,
+      "end": 230350
+    },
+    {
+      "title": "financial statements",
+      "start": 231230,
+      "end": 231250
+    },
+    {
+      "title": "PART II",
+      "start": 232519,
+      "end": 232526
+    },
+    {
+      "title": "Item 8\nRevenue Recognition",
+      "start": 232527,
+      "end": 232553
+    },
+    {
+      "title": "PART II",
+      "start": 237004,
+      "end": 237011
+    },
+    {
+      "title": "Item 8\nJudgment is required to determine the SSP for each distinct performance obligation. We use a single amount to estimate SSP for items that are not sold separately, including on-premises licenses sold with SA or software updates provided at no additional charge. We use a range of amounts to estimate SSP when we sell each of the products and services separately and need to determine whether there is a discount to be allocated based on the relative SSP of the various products and services.",
+      "start": 237012,
+      "end": 237509
+    },
+    {
+      "title": "PART II",
+      "start": 241836,
+      "end": 241843
+    },
+    {
+      "title": "Item 8\nWe record an allowance for doubtful accounts which reflects our best estimate of credit losses inherent in the accounts receivable and financing receivable balances. We determine the allowance based on known troubled accounts, historical experience, and other currently available evidence.",
+      "start": 241844,
+      "end": 242140
+    },
+    {
+      "title": "PART II",
+      "start": 245632,
+      "end": 245639
+    },
+    {
+      "title": "Item 8\nIncome Taxes",
+      "start": 245640,
+      "end": 245659
+    },
+    {
+      "title": "financial statements",
+      "start": 245844,
+      "end": 245864
+    },
+    {
+      "title": "PART II",
+      "start": 250434,
+      "end": 250441
+    },
+    {
+      "title": "Item 8\nFor derivative instruments that are not designated as hedges, gains and losses from changes in fair values are primarily recognized in other income (expense), net.",
+      "start": 250442,
+      "end": 250612
+    },
+    {
+      "title": "PART II",
+      "start": 254398,
+      "end": 254405
+    },
+    {
+      "title": "Item 8\nROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. As most of our leases do not provide an implicit rate, we generally use our incremental borrowing rate based on the estimated rate of interest for collateralized borrowing over a similar term of the lease payments at commencement date. The operating lease ROU asset also includes any lease payments made and excludes lease incentives. Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term.",
+      "start": 254406,
+      "end": 255290
+    },
+    {
+      "title": "financial statements",
+      "start": 257597,
+      "end": 257617
+    },
+    {
+      "title": "PART II",
+      "start": 258613,
+      "end": 258620
+    },
+    {
+      "title": "Item 8\nIncome Statement \u2013 Disaggregation of Income Statement Expenses",
+      "start": 258621,
+      "end": 258690
+    },
+    {
+      "title": "financial statements",
+      "start": 258968,
+      "end": 258988
+    },
+    {
+      "title": "PART II",
+      "start": 261062,
+      "end": 261069
+    },
+    {
+      "title": "Item 8\nNet Recognized Gains (Losses) on Investments",
+      "start": 261070,
+      "end": 261121
+    },
+    {
+      "title": "PART II",
+      "start": 261798,
+      "end": 261805
+    },
+    {
+      "title": "Item 8\nNOTE 4 \u2014 INVESTMENTS",
+      "start": 261806,
+      "end": 261833
+    },
+    {
+      "title": "PART II",
+      "start": 263193,
+      "end": 263200
+    },
+    {
+      "title": "Item 8\n(In millions)",
+      "start": 263201,
+      "end": 263221
+    },
+    {
+      "title": "PART II",
+      "start": 265260,
+      "end": 265267
+    },
+    {
+      "title": "Item 8\nUnrealized Losses on Debt Investments",
+      "start": 265268,
+      "end": 265312
+    },
+    {
+      "title": "PART II",
+      "start": 267216,
+      "end": 267223
+    },
+    {
+      "title": "Item 8\nNOTE 5 \u2014 DERIVATIVES",
+      "start": 267224,
+      "end": 267251
+    },
+    {
+      "title": "PART II",
+      "start": 270220,
+      "end": 270227
+    },
+    {
+      "title": "Item 8\nThe following table presents the notional amounts of our outstanding derivative instruments measured in U.S. dollar equivalents:",
+      "start": 270228,
+      "end": 270363
+    },
+    {
+      "title": "PART II",
+      "start": 272136,
+      "end": 272143
+    },
+    {
+      "title": "Item 8\nThe following table presents the fair value of our derivatives instruments on a gross basis:",
+      "start": 272144,
+      "end": 272243
+    },
+    {
+      "title": "PART II",
+      "start": 274280,
+      "end": 274287
+    },
+    {
+      "title": "Item 8\nNOTE 7 \u2014 BUSINESS COMBINATIONS",
+      "start": 274288,
+      "end": 274325
+    },
+    {
+      "title": "financial statements",
+      "start": 274832,
+      "end": 274852
+    },
+    {
+      "title": "PART II",
+      "start": 276949,
+      "end": 276956
+    },
+    {
+      "title": "Item 8\nNOTE 8 \u2014 GOODWILL",
+      "start": 276957,
+      "end": 276981
+    },
+    {
+      "title": "PART II",
+      "start": 280016,
+      "end": 280023
+    },
+    {
+      "title": "Item 8\nThe components of intangible assets acquired during the periods presented were as follows:",
+      "start": 280024,
+      "end": 280121
+    },
+    {
+      "title": "PART II",
+      "start": 280832,
+      "end": 280839
+    },
+    {
+      "title": "Item 8\nNOTE 10",
+      "start": 280840,
+      "end": 280854
+    },
+    {
+      "title": "PART II",
+      "start": 283645,
+      "end": 283652
+    },
+    {
+      "title": "Item 8\nNOTE 11 \u2014 INCOME TAXES",
+      "start": 283653,
+      "end": 283682
+    },
+    {
+      "title": "PART II",
+      "start": 286104,
+      "end": 286111
+    },
+    {
+      "title": "Item 8\nThe decrease in our effective tax rate for fiscal year 2025 compared to fiscal year 2024 was due to changes in the mix of our earnings and tax expenses between the U.S. and foreign countries. The decrease in our effective tax rate for fiscal year 2024 compared to fiscal year 2023 was primarily due to tax benefits from tax law changes, including the delay of the effective date of final foreign tax credit regulations.",
+      "start": 286112,
+      "end": 286538
+    },
+    {
+      "title": "PART II",
+      "start": 289014,
+      "end": 289021
+    },
+    {
+      "title": "Item 8\nUncertain Tax Positions",
+      "start": 289022,
+      "end": 289052
+    },
+    {
+      "title": "financial statements",
+      "start": 291664,
+      "end": 291684
+    },
+    {
+      "title": "PART II",
+      "start": 292207,
+      "end": 292214
+    },
+    {
+      "title": "Item 8\nChanges in unearned revenue were as follows:",
+      "start": 292215,
+      "end": 292266
+    },
+    {
+      "title": "PART II",
+      "start": 294102,
+      "end": 294109
+    },
+    {
+      "title": "Item 8\nSupplemental balance sheet information related to leases was as follows:",
+      "start": 294110,
+      "end": 294189
+    },
+    {
+      "title": "PART II",
+      "start": 296167,
+      "end": 296174
+    },
+    {
+      "title": "Item 8\nOther Contingencies",
+      "start": 296175,
+      "end": 296201
+    },
+    {
+      "title": "financial statements",
+      "start": 296493,
+      "end": 296513
+    },
+    {
+      "title": "financial statements",
+      "start": 297018,
+      "end": 297038
+    },
+    {
+      "title": "PART II",
+      "start": 298968,
+      "end": 298975
+    },
+    {
+      "title": "Item 8\nDividends",
+      "start": 298976,
+      "end": 298992
+    },
+    {
+      "title": "PART II",
+      "start": 301450,
+      "end": 301457
+    },
+    {
+      "title": "Item 8\nNOTE 17 \u2014 EMPLOYEE STOCK AND SAVINGS PLANS",
+      "start": 301458,
+      "end": 301507
+    },
+    {
+      "title": "PART II",
+      "start": 304096,
+      "end": 304103
+    },
+    {
+      "title": "Item 8\nEmployee Stock Purchase Plan",
+      "start": 304104,
+      "end": 304139
+    },
+    {
+      "title": "PART II",
+      "start": 307610,
+      "end": 307617
+    },
+    {
+      "title": "Item 8\nIntelligent Cloud",
+      "start": 307618,
+      "end": 307642
+    },
+    {
+      "title": "PART II",
+      "start": 310471,
+      "end": 310478
+    },
+    {
+      "title": "Item 8\nSegment revenue, cost of revenue, operating expenses, and operating income were as follows during the periods presented:",
+      "start": 310479,
+      "end": 310606
+    },
+    {
+      "title": "PART II",
+      "start": 311993,
+      "end": 312000
+    },
+    {
+      "title": "Item 8\nRevenue, classified by significant product and service offerings, was as follows:",
+      "start": 312001,
+      "end": 312089
+    },
+    {
+      "title": "PART II",
+      "start": 313841,
+      "end": 313848
+    },
+    {
+      "title": "Item 8\nREPORT OF INDEPENDENT REGIST",
+      "start": 313849,
+      "end": 313884
+    },
+    {
+      "title": "Financial Statements",
+      "start": 314000,
+      "end": 314020
+    },
+    {
+      "title": "financial statements",
+      "start": 314396,
+      "end": 314416
+    },
+    {
+      "title": "financial statements",
+      "start": 314440,
+      "end": 314460
+    },
+    {
+      "title": "financial statements",
+      "start": 315298,
+      "end": 315318
+    },
+    {
+      "title": "financial statements",
+      "start": 315432,
+      "end": 315452
+    },
+    {
+      "title": "financial statements",
+      "start": 315924,
+      "end": 315944
+    },
+    {
+      "title": "financial statements",
+      "start": 316105,
+      "end": 316125
+    },
+    {
+      "title": "financial statements",
+      "start": 316320,
+      "end": 316340
+    },
+    {
+      "title": "financial statements",
+      "start": 316509,
+      "end": 316529
+    },
+    {
+      "title": "financial statements",
+      "start": 316728,
+      "end": 316748
+    },
+    {
+      "title": "financial statements",
+      "start": 316898,
+      "end": 316918
+    },
+    {
+      "title": "financial statements",
+      "start": 317087,
+      "end": 317107
+    },
+    {
+      "title": "PART II",
+      "start": 317311,
+      "end": 317318
+    },
+    {
+      "title": "Item 8\nRevenue Recognition \u2013 Refer to Note 1 to the financial statements",
+      "start": 317319,
+      "end": 317391
+    },
+    {
+      "title": "financial statements",
+      "start": 317371,
+      "end": 317391
+    },
+    {
+      "title": "financial statements",
+      "start": 320260,
+      "end": 320280
+    },
+    {
+      "title": "PART II",
+      "start": 320285,
+      "end": 320292
+    },
+    {
+      "title": "Item 8\nIncome Taxes \u2013 Uncertain Tax Positions \u2013 Refer to Note 11 to the financial statements",
+      "start": 320293,
+      "end": 320385
+    },
+    {
+      "title": "financial statements",
+      "start": 320365,
+      "end": 320385
+    },
+    {
+      "title": "financial statements",
+      "start": 321010,
+      "end": 321030
+    },
+    {
+      "title": "PART II",
+      "start": 322712,
+      "end": 322719
+    },
+    {
+      "title": "ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOU",
+      "start": 322731,
+      "end": 322778
+    },
+    {
+      "title": "ITEM 9A. CONTROLS",
+      "start": 322841,
+      "end": 322858
+    },
+    {
+      "title": "financial statements",
+      "start": 324049,
+      "end": 324069
+    },
+    {
+      "title": "financial statements",
+      "start": 324363,
+      "end": 324383
+    },
+    {
+      "title": "financial statements",
+      "start": 324599,
+      "end": 324619
+    },
+    {
+      "title": "Item 9A.\n89",
+      "start": 325417,
+      "end": 325428
+    },
+    {
+      "title": "PART II",
+      "start": 325429,
+      "end": 325436
+    },
+    {
+      "title": "Item 9A\nREPORT OF INDEPENDENT REGIST",
+      "start": 325437,
+      "end": 325473
+    },
+    {
+      "title": "financial statements",
+      "start": 326316,
+      "end": 326336
+    },
+    {
+      "title": "financial statements",
+      "start": 326474,
+      "end": 326494
+    },
+    {
+      "title": "financial statements",
+      "start": 328132,
+      "end": 328152
+    },
+    {
+      "title": "financial statements",
+      "start": 328600,
+      "end": 328620
+    },
+    {
+      "title": "financial statements",
+      "start": 329022,
+      "end": 329042
+    },
+    {
+      "title": "PART II",
+      "start": 329476,
+      "end": 329483
+    },
+    {
+      "title": "ITEM 9B. OTHER",
+      "start": 329517,
+      "end": 329531
+    },
+    {
+      "title": "Item 408 of Regulation S-K, during the three months ended June 30, 2025.",
+      "start": 329808,
+      "end": 329880
+    },
+    {
+      "title": "ITEM 9C. DISCLOSURE REGARDING FOREIGN J",
+      "start": 329881,
+      "end": 329920
+    },
+    {
+      "title": "PART III",
+      "start": 329975,
+      "end": 329983
+    },
+    {
+      "title": "ITEM 10. DIRECTORS, EXECUTIVE OFF",
+      "start": 329984,
+      "end": 330017
+    },
+    {
+      "title": "Part I",
+      "start": 330123,
+      "end": 330129
+    },
+    {
+      "title": "Item 1 of this Form 10-K. Information about our directors may be found under the caption \u201cOur Director Nominees\u201d in our Proxy Statement for the Annual Meeting of Shareholders to be held December 5, 2025 (the \u201cProxy Statement\u201d). Information about our Audit Committee may be found under the caption \u201cBoard Committees\u201d in the Proxy Statement. Information about our trading policies and procedures can be found under the caption \u201cInsider Trading Policies and Procedures\u201d in the Proxy Statement. That information is incorporated herein by reference.",
+      "start": 330131,
+      "end": 330675
+    },
+    {
+      "title": "ITEM 11. EXECUTI",
+      "start": 331594,
+      "end": 331610
+    },
+    {
+      "title": "ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWN",
+      "start": 331911,
+      "end": 331964
+    },
+    {
+      "title": "ITEM 13. CERTAIN RELATIONSHIPS AND RELATED",
+      "start": 332221,
+      "end": 332263
+    },
+    {
+      "title": "PART III",
+      "start": 332489,
+      "end": 332497
+    },
+    {
+      "title": "Item 14\nITEM 14. PRINCIPAL ACCOU",
+      "start": 332498,
+      "end": 332530
+    },
+    {
+      "title": "PART IV",
+      "start": 332917,
+      "end": 332924
+    },
+    {
+      "title": "Item 15\nPART IV",
+      "start": 332925,
+      "end": 332940
+    },
+    {
+      "title": "PART IV",
+      "start": 332933,
+      "end": 332940
+    },
+    {
+      "title": "ITEM 15. EXHIBIT AND FINANC",
+      "start": 332941,
+      "end": 332968
+    },
+    {
+      "title": "Financial Statements",
+      "start": 332997,
+      "end": 333017
+    },
+    {
+      "title": "financial statements",
+      "start": 333036,
+      "end": 333056
+    },
+    {
+      "title": "Part II",
+      "start": 333077,
+      "end": 333084
+    },
+    {
+      "title": "Item 8 of this Form 10-K, as indexed below. Financial statement schedules have been omitted since they either are not required, not applicable, or the information is otherwise included.",
+      "start": 333086,
+      "end": 333271
+    },
+    {
+      "title": "Financial Statements",
+      "start": 333281,
+      "end": 333301
+    },
+    {
+      "title": "Financial Statements",
+      "start": 333450,
+      "end": 333470
+    },
+    {
+      "title": "PART IV",
+      "start": 334693,
+      "end": 334700
+    },
+    {
+      "title": "Item 15\nIncorporated by Reference",
+      "start": 334701,
+      "end": 334734
+    },
+    {
+      "title": "PART IV",
+      "start": 336699,
+      "end": 336706
+    },
+    {
+      "title": "Item 15\nIncorporated by Reference",
+      "start": 336707,
+      "end": 336740
+    },
+    {
+      "title": "PART IV",
+      "start": 338606,
+      "end": 338613
+    },
+    {
+      "title": "Item 15\nIncorporated by Reference",
+      "start": 338614,
+      "end": 338647
+    },
+    {
+      "title": "PART IV",
+      "start": 340700,
+      "end": 340707
+    },
+    {
+      "title": "Item 15\nIncorporated by Reference",
+      "start": 340708,
+      "end": 340741
+    },
+    {
+      "title": "PART IV",
+      "start": 342962,
+      "end": 342969
+    },
+    {
+      "title": "Item 15\nIncorporated by Reference",
+      "start": 342970,
+      "end": 343003
+    },
+    {
+      "title": "PART IV",
+      "start": 345031,
+      "end": 345038
+    },
+    {
+      "title": "Item 15\nIncorporated by Reference",
+      "start": 345039,
+      "end": 345072
+    },
+    {
+      "title": "PART IV",
+      "start": 345787,
+      "end": 345794
+    },
+    {
+      "title": "Item 16\nITEM 16. FORM",
+      "start": 345795,
+      "end": 345816
+    }
+  ],
+  "char_count": 347391,
+  "line_count": 8064,
+  "word_count": 49356,
+  "file_path": "data/raw/pdfs/sec-edgar-filings/MSFT/10-K/0000950170-25-100235/primary-document.html",
+  "file_name": "primary-document.html",
+  "file_size": 8158067,
+  "processed_at": "2025-11-05T18:30:55.586881"
+}

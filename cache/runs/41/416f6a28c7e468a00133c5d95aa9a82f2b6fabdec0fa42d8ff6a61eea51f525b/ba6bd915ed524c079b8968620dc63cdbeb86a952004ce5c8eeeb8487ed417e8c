@@ -1,0 +1,17 @@
+cmd: python src/parsers/layout_detector.py
+deps:
+- path: data/raw/pdfs/sec-edgar-filings
+  hash: md5
+  md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+  size: 181846929
+  nfiles: 16
+- path: src/parsers/layout_detector.py
+  hash: md5
+  md5: bbf59ea63b19b3fbf1210772aa32d360
+  size: 19215
+outs:
+- path: data/parsed/layouts
+  hash: md5
+  md5: f23359900e4cb6bea9ff805ab22a642c.dir
+  size: 252722
+  nfiles: 18

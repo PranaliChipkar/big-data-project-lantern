@@ -1,0 +1,11 @@
+{
+  "table_index": 51,
+  "table_type": "segment_data",
+  "rows": 5,
+  "cols": 6,
+  "has_header": false,
+  "method": "html_parser",
+  "confidence": "high",
+  "source_file": "primary-document.html",
+  "csv_file": "primary-document_segment_data_42.csv"
+}

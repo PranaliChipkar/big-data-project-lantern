@@ -1,0 +1,11 @@
+{
+  "table_index": 44,
+  "table_type": "cash_flow",
+  "rows": 5,
+  "cols": 10,
+  "has_header": true,
+  "method": "html_parser",
+  "confidence": "high",
+  "source_file": "primary-document.html",
+  "csv_file": "primary-document_cash_flow_40.csv"
+}

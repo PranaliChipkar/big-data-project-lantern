@@ -1,0 +1,17 @@
+cmd: python src/parsers/table_extractor.py
+deps:
+- path: data/raw/pdfs/sec-edgar-filings
+  hash: md5
+  md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+  size: 181846929
+  nfiles: 16
+- path: src/parsers/table_extractor.py
+  hash: md5
+  md5: 90814d24afa8f88b4f6280b5c83a91c2
+  size: 13404
+outs:
+- path: data/parsed/tables
+  hash: md5
+  md5: 318094986f1fa8c59a2e044110a0a8a7.dir
+  size: 428707
+  nfiles: 846

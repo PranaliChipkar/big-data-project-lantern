@@ -1,0 +1,12 @@
+cmd: python src/download/edgar_downloader.py
+deps:
+- path: src/download/edgar_downloader.py
+  hash: md5
+  md5: 462f9a988e1e452ffeae25382087fcdb
+  size: 6946
+outs:
+- path: data/raw/pdfs/sec-edgar-filings
+  hash: md5
+  md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+  size: 181846929
+  nfiles: 16

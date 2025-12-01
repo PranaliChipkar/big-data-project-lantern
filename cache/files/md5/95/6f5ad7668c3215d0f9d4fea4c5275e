@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "file": "data/raw/pdfs/sec-edgar-filings/AAPL/10-K/0000320193-25-000079/primary-document.html",
+  "blocks_detected": 8,
+  "block_types": {
+    "Text": 8
+  },
+  "layout_structure": {
+    "block_types": {
+      "Text": 8
+    },
+    "reading_order": [],
+    "columns_detected": 3,
+    "has_tables": false,
+    "has_figures": false,
+    "avg_confidence": 0.7217845725
+  },
+  "model_used": "Tesseract",
+  "visualization": "data/parsed/layouts/visualizations/AAPL/10-K/0000320193-25-000079/primary-document_layout.png",
+  "processed_at": "2025-11-05T18:58:51.831578"
+}

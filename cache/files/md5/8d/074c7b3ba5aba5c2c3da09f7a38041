@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "method": "docling",
+  "features": {
+    "reading_order": true,
+    "table_structure": true,
+    "formula_detection": false,
+    "layout_preservation": true
+  },
+  "content_summary": {
+    "has_text": false,
+    "has_markdown": true,
+    "table_count": 0
+  }
+}

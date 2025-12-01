@@ -1,0 +1,58 @@
+[
+  {
+    "file": "AAPL/10-Q/0000320193-25-000073/primary-document.html",
+    "text_blocks": 40,
+    "table_blocks": 27,
+    "total_blocks": 67,
+    "status": "success"
+  },
+  {
+    "file": "AAPL/10-Q/0000320193-25-000057/primary-document.html",
+    "text_blocks": 41,
+    "table_blocks": 26,
+    "total_blocks": 67,
+    "status": "success"
+  },
+  {
+    "file": "AAPL/10-K/0000320193-25-000079/primary-document.html",
+    "text_blocks": 111,
+    "table_blocks": 49,
+    "total_blocks": 160,
+    "status": "success"
+  },
+  {
+    "file": "AAPL/10-K/0000320193-24-000123/primary-document.html",
+    "text_blocks": 112,
+    "table_blocks": 50,
+    "total_blocks": 162,
+    "status": "success"
+  },
+  {
+    "file": "MSFT/10-Q/0000950170-25-061046/primary-document.html",
+    "text_blocks": 102,
+    "table_blocks": 55,
+    "total_blocks": 157,
+    "status": "success"
+  },
+  {
+    "file": "MSFT/10-Q/0001193125-25-256321/primary-document.html",
+    "text_blocks": 95,
+    "table_blocks": 53,
+    "total_blocks": 148,
+    "status": "success"
+  },
+  {
+    "file": "MSFT/10-K/0000950170-25-100235/primary-document.html",
+    "text_blocks": 164,
+    "table_blocks": 77,
+    "total_blocks": 241,
+    "status": "success"
+  },
+  {
+    "file": "MSFT/10-K/0000950170-24-087843/primary-document.html",
+    "text_blocks": 179,
+    "table_blocks": 85,
+    "total_blocks": 264,
+    "status": "success"
+  }
+]

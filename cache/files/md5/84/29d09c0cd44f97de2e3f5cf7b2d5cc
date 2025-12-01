@@ -1,0 +1,14 @@
+{
+  "total_documents": 8,
+  "total_blocks": 1266,
+  "total_text_blocks": 844,
+  "total_table_blocks": 422,
+  "companies": [
+    "AAPL",
+    "MSFT"
+  ],
+  "filing_types": [
+    "unknown"
+  ],
+  "created_at": "2025-11-30T11:51:37.532187"
+}

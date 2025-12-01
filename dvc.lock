@@ -1,0 +1,133 @@
+schema: '2.0'
+stages:
+  download:
+    cmd: python src/download/edgar_downloader.py
+    deps:
+    - path: src/download/edgar_downloader.py
+      hash: md5
+      md5: 462f9a988e1e452ffeae25382087fcdb
+      size: 6946
+    outs:
+    - path: data/raw/pdfs/sec-edgar-filings
+      hash: md5
+      md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+      size: 181846929
+      nfiles: 16
+  parse_text:
+    cmd: python src/parsers/pdf_parser.py
+    deps:
+    - path: data/raw/pdfs/sec-edgar-filings
+      hash: md5
+      md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+      size: 181846929
+      nfiles: 16
+    - path: src/parsers/pdf_parser.py
+      hash: md5
+      md5: 6110481cbc96c9f0edf00d1b80146061
+      size: 15391
+    outs:
+    - path: data/parsed/text
+      hash: md5
+      md5: 48cf5b82c99aba4901bbefce766b5771.dir
+      size: 2014780
+      nfiles: 18
+  extract_tables:
+    cmd: python src/parsers/table_extractor.py
+    deps:
+    - path: data/raw/pdfs/sec-edgar-filings
+      hash: md5
+      md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+      size: 181846929
+      nfiles: 16
+    - path: src/parsers/table_extractor.py
+      hash: md5
+      md5: 90814d24afa8f88b4f6280b5c83a91c2
+      size: 13404
+    outs:
+    - path: data/parsed/tables
+      hash: md5
+      md5: 318094986f1fa8c59a2e044110a0a8a7.dir
+      size: 428707
+      nfiles: 846
+  detect_layout:
+    cmd: python src/parsers/layout_detector.py
+    deps:
+    - path: data/raw/pdfs/sec-edgar-filings
+      hash: md5
+      md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+      size: 181846929
+      nfiles: 16
+    - path: src/parsers/layout_detector.py
+      hash: md5
+      md5: bbf59ea63b19b3fbf1210772aa32d360
+      size: 19215
+    outs:
+    - path: data/parsed/layouts
+      hash: md5
+      md5: f23359900e4cb6bea9ff805ab22a642c.dir
+      size: 252722
+      nfiles: 18
+  docling_comparison:
+    cmd: python src/parsers/docling_parser.py
+    deps:
+    - path: data/raw/pdfs/sec-edgar-filings
+      hash: md5
+      md5: 41941fc71de3bdb02b703cf532a9ccb1.dir
+      size: 181846929
+      nfiles: 16
+    - path: src/parsers/docling_parser.py
+      hash: md5
+      md5: c814e010888c79d29b8a415d977e3f03
+      size: 16231
+    outs:
+    - path: data/parsed/docling
+      hash: md5
+      md5: a4e19457292b4e2392aa6d47cd4cff13.dir
+      size: 4080371
+      nfiles: 25
+  add_metadata:
+    cmd: python src/utils/metadata.py
+    deps:
+    - path: data/parsed/layouts
+      hash: md5
+      md5: f23359900e4cb6bea9ff805ab22a642c.dir
+      size: 252722
+      nfiles: 18
+    - path: data/parsed/tables
+      hash: md5
+      md5: 318094986f1fa8c59a2e044110a0a8a7.dir
+      size: 428707
+      nfiles: 846
+    - path: data/parsed/text
+      hash: md5
+      md5: 48cf5b82c99aba4901bbefce766b5771.dir
+      size: 2014780
+      nfiles: 18
+    - path: src/utils/metadata.py
+      hash: md5
+      md5: 8bab596c8368ffb2674eaf95815a4b9f
+      size: 20468
+    outs:
+    - path: data/parsed/metadata
+      hash: md5
+      md5: 8d72e2114b7a0b1beff27165b5c3a8e7.dir
+      size: 2486624
+      nfiles: 20
+  format_comparison:
+    cmd: python src/utils/format_comparison.py
+    deps:
+    - path: data/parsed/metadata
+      hash: md5
+      md5: 8d72e2114b7a0b1beff27165b5c3a8e7.dir
+      size: 2486624
+      nfiles: 20
+    - path: src/utils/format_comparison.py
+      hash: md5
+      md5: c122cd74d955dbc5223cf24b35e57e98
+      size: 16244
+    outs:
+    - path: data/parsed/format_comparison
+      hash: md5
+      md5: be077b8b7eb73e42ee4144661d5d3401.dir
+      size: 27319
+      nfiles: 5

@@ -1,0 +1,57 @@
+stages:
+  download:
+    cmd: python src/download/edgar_downloader.py
+    deps:
+      - src/download/edgar_downloader.py
+    outs:
+      - data/raw/pdfs/sec-edgar-filings
+
+  parse_text:
+    cmd: python src/parsers/pdf_parser.py
+    deps:
+      - src/parsers/pdf_parser.py
+      - data/raw/pdfs/sec-edgar-filings
+    outs:
+      - data/parsed/text
+
+  extract_tables:
+    cmd: python src/parsers/table_extractor.py
+    deps:
+      - src/parsers/table_extractor.py
+      - data/raw/pdfs/sec-edgar-filings
+    outs:
+      - data/parsed/tables
+
+  detect_layout:
+    cmd: python src/parsers/layout_detector.py
+    deps:
+      - src/parsers/layout_detector.py
+      - data/raw/pdfs/sec-edgar-filings
+    outs:
+      - data/parsed/layouts
+
+  docling_comparison:
+    cmd: python src/parsers/docling_parser.py
+    deps:
+      - src/parsers/docling_parser.py
+      - data/raw/pdfs/sec-edgar-filings
+    outs:
+      - data/parsed/docling
+
+  add_metadata:
+    cmd: python src/utils/metadata.py
+    deps:
+      - src/utils/metadata.py
+      - data/parsed/text
+      - data/parsed/tables
+      - data/parsed/layouts
+    outs:
+      - data/parsed/metadata
+
+  format_comparison:
+    cmd: python src/utils/format_comparison.py
+    deps:
+      - src/utils/format_comparison.py
+      - data/parsed/metadata
+    outs:
+      - data/parsed/format_comparison
