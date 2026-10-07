@@ -3,7 +3,7 @@
 An advanced document parsing pipeline for automated extraction and analysis of SEC financial filings (10-K/10-Q documents).
 
 
-## 🚀 Project Overview
+## Project Overview
 
 Project LANTERN automates the extraction and validation of financial data from SEC filings, replacing manual analysis with an intelligent parsing pipeline that achieves 92.1% accuracy while operating at 15x lower cost than commercial cloud services.
 
@@ -16,7 +16,7 @@ Project LANTERN automates the extraction and validation of financial data from S
 - **Performance**: Processes 3.73 pages/second (3,200+ documents/day)
 - **Reproducibility**: Full DVC pipeline for consistent results
 
-## 📊 Pipeline Performance Metrics
+## Pipeline Performance Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -28,7 +28,7 @@ Project LANTERN automates the extraction and validation of financial data from S
 | **Success Rate** | 94% |
 | **XBRL Validation Accuracy** | 85% for key concepts |
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
@@ -49,7 +49,7 @@ Project LANTERN automates the extraction and validation of financial data from S
                     └─────────────────────┘
 ```
 
-## 🛠️ Installation
+## Installation
 
 ### Setup
 
@@ -82,7 +82,7 @@ sudo apt-get install tesseract-ocr
 # Download from: https://github.com/UB-Mannheim/tesseract/wiki
 ```
 
-## 🎯 Quick Start
+## Quick Start
 
 ### Run Complete Pipeline
 ```bash
@@ -115,7 +115,7 @@ python src/validation/xbrl_validation.py
 python tests/test_extraction_quality.py -v
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 project-lantern/
@@ -144,7 +144,7 @@ project-lantern/
 └── README.md            # This file
 ```
 
-## 🔄 DVC Pipeline Stages
+## DVC Pipeline Stages
 
 The pipeline consists of 8 reproducible stages:
 
@@ -162,27 +162,27 @@ Run any stage:
 dvc repro <stage_name>
 ```
 
-## 📈 Results Summary
+## Results Summary
 
 ### Phase 1: Design (Parts 0-4)
-- ✅ Downloaded 8 SEC filings (AAPL, MSFT)
-- ✅ Extracted 255,007 words of text
-- ✅ Identified 422 financial tables
-- ✅ Detected 19,517 layout blocks
-- ✅ Compared with Docling advanced parser
+- Downloaded 8 SEC filings (AAPL, MSFT)
+- Extracted 255,007 words of text
+- Identified 422 financial tables
+- Detected 19,517 layout blocks
+- Compared with Docling advanced parser
 
 ### Phase 2: Representation & Staging (Parts 5-8)
-- ✅ Tagged 1,266 content blocks with metadata
-- ✅ Optimized storage format (JSONL selected)
-- ✅ AWS Textract integration and cost analysis
-- ✅ Created reproducible DVC pipeline
+- Tagged 1,266 content blocks with metadata
+- Optimized storage format (JSONL selected)
+- AWS Textract integration and cost analysis
+- Created reproducible DVC pipeline
 
 ### Phase 3: Evaluation & Validation (Parts 9-11)
-- ✅ Quality Score: 92.1/100
-- ✅ Performance: 3.73 pages/second
-- ✅ XBRL Validation: 85% accuracy on key financials
+- Quality Score: 92.1/100
+- Performance: 3.73 pages/second
+- XBRL Validation: 85% accuracy on key financials
 
-## 💰 Cost Comparison
+## Cost Comparison
 
 | Service | Cost per 1000 Pages | Monthly (50K pages) |
 |---------|-------------------|-------------------|
@@ -191,7 +191,7 @@ dvc repro <stage_name>
 
 **Savings: 92% lower cost than cloud services**
 
-## 🧪 Testing
+## Testing
 
 Run the complete test suite:
 ```bash
@@ -209,7 +209,7 @@ All regression tests pass with:
 - Minimum tables: 379
 - Minimum F1 score: 0.70
 
-## 🔧 Configuration
+## Configuration
 
 Edit `config/params.yaml` to customize:
 - Filing types to download
@@ -218,7 +218,7 @@ Edit `config/params.yaml` to customize:
 - Metadata schema version
 - Output formats
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -243,18 +243,18 @@ parsing:
 dvc init
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Evaluation Report](reports/evaluation_report.md) - Quality metrics
 - [Benchmark Report](reports/benchmark_report.md) - Performance analysis
 - [XBRL Validation](reports/xbrl_validation_report.md) - Validation results
 
 
-## 📄 License
+## License
 
 Academic use only. Part of coursework for Big Data course.
 
-## 🏆 Achievements
+## Achievements
 
 - **92.1% Extraction Accuracy** - Industry-leading quality
 - **15x Cost Reduction** - Compared to cloud services  
